@@ -5,7 +5,6 @@ Yelp
 Twitter
 Google Drive
 Uber Eats
-Taxis
 AirBnB
 Lyft
 Netflix
@@ -20,3 +19,4 @@ Slack
 Apple
 Soylent
 Fruit Loops
+Fox News
