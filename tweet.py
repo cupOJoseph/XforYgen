@@ -32,7 +32,7 @@ def main():
   Y = [line.strip() for line in Yfile]
 
   tweet = "The next big thing is: "
-  tweet = tweet + random.choice(X) + " for " + random.choice(Y) ". #NextBigThing #startupidea"
+  tweet = tweet + random.choice(X) + " for " + random.choice(Y) + ". #NextBigThing #startupidea"
 
   status = api.update_status(status=tweet)
 
