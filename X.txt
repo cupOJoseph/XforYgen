@@ -29,3 +29,5 @@ WeWork
 Venmo
 Waze
 App Store 
+Canva
+Yearbook
