@@ -1,12 +1,13 @@
-# XforYgen
-A very simple script that generates X for Y to help you come up with a startup idea.
+# X for Y generation.
 
-Add X to X.txt.
+## Description
+This is a simple program which generates psuedo random startup ideas, based on a "The X for Y" format.  Our Twitter Bot can be found here: https://twitter.com/NextBigThingBot.
 
-Add Y to Y.txt.
+## Helping
+If you would like to help you can : 
+- Add X's to X.txt.
+- Add Y's to Y.txt.
 
-1 Item per line.
+These are pretty easy.  Just put your ideas on a new line in the file, commit, push, and send us the pull request. The only rule is 1 item per line. Obscene things may or may not be merged.
 
-Run with $python3 gen.py
-
-Some items in in X more than once.  This is because they are bigger buzz words.  Having an item in either list multiple times is fine, that will just make it get picked more often.
+Some items are mentions more than once, like Uber.  This increases the likelyhood that it is choosen.
