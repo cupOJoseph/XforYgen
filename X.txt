@@ -16,7 +16,7 @@ Spotify
 Skype
 Google Hangout
 Slack
-Iphone
+iPhone
 Soylent
 Fruit Loops
 Fox News
@@ -42,3 +42,17 @@ Snapchat
 Instagram
 HGTV
 Coachella
+Podcast
+Slack
+Reddit
+Dropbox
+Mike Tyson's Punch-Out!!
+Urban Dictionary
+Flickr
+LinkedIn
+Fiverr
+del.icio.us
+A Segway
+Google Glass
+Palm Pilot
+Napster
