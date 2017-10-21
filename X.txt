@@ -45,3 +45,9 @@ Coachella
 Twitch.tv
 Periscope
 Dropbox
+Apple
+Microsoft
+Canon
+Nikon
+SONY
+Amazon
