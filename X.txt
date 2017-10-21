@@ -14,7 +14,7 @@ Pandora
 Skype
 Google Hangout
 Slack
-Iphone
+iPhone
 Soylent
 Fruit Loops
 Fox News
@@ -49,3 +49,49 @@ Equifax
 Grindr
 Samsung
 CNN
+Podcasts
+Slack
+Reddit
+Dropbox
+Mike Tyson's Punch-Out
+Urban Dictionary
+Flickr
+LinkedIn
+Fiverr
+del.icio.us
+Segways
+Google Glass
+Palm Pilots
+Napster
+Pandora
+Bitbucket
+Howard Johnson
+Silk Road
+Tidal
+Ikea
+Ikea
+Ikea
+Ikea
+Jockey
+Jockey
+Hiking
+Whatsapp
+Motorola
+Micromax
+Lenovo
+Acer
+Dell
+Pandora
+Urban Clap
+Microsoft Outlook
+Pinterest
+LinkedIn
+Twitch.tv
+Periscope
+Dropbox
+Apple
+Microsoft
+Canon
+Nikon
+SONY
+Amazon
