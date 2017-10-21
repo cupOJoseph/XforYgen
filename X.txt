@@ -42,7 +42,7 @@ Snapchat
 Instagram
 HGTV
 Coachella
-Hike
+Hiking
 Whatsapp
 Motorola
 Micromax
@@ -54,3 +54,12 @@ Urban Clap
 Microsoft Outlook
 Pinterest
 LinkedIn
+Twitch.tv
+Periscope
+Dropbox
+Apple
+Microsoft
+Canon
+Nikon
+SONY
+Amazon
