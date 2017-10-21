@@ -1,6 +1,5 @@
 Uber
 Uber
-Uber
 Yelp
 Twitter
 Google Drive
@@ -10,9 +9,8 @@ Lyft
 Netflix
 Sound Cloud
 Spotify
+Spotify
 Pandora
-Spotify
-Spotify
 Skype
 Google Hangout
 Slack
@@ -42,6 +40,15 @@ Snapchat
 Instagram
 HGTV
 Coachella
+Reddit
+Yahoo Answers
+Craigslist
+7/11
+Equifax
+4chan
+Grindr
+Samsung
+CNN
 Podcasts
 Slack
 Reddit
