@@ -1,4 +1,5 @@
 4chan
+500px
 7/11
 Acer
 AirBnB
@@ -19,12 +20,16 @@ Dropbox
 Dropbox
 Equifax
 Etsy
+Evernote
+Evernote
 Fiverr
 Flickr
 Fox News
 Fruit Loops
 GitHub
+Google
 Google Drive
+Google Fit
 Google Glass
 Google Hangout
 Grindr
