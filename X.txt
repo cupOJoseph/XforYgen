@@ -1,20 +1,21 @@
 4chan
-500px
 7/11
+500px
 Acer
 AirBnB
 Amazon
-App Store
 Apple
+App Store
 Bitbucket
 Bumble
-CNN
 Cafeteria
 Canon
 Canva
 Chipotle
+CNN
 Coachella
 Craigslist
+del.icio.us
 Dell
 Dropbox
 Dropbox
@@ -24,6 +25,7 @@ Evernote
 Evernote
 Fiverr
 Flickr
+Flipkart
 Fox News
 Fruit Loops
 GitHub
@@ -33,8 +35,8 @@ Google Fit
 Google Glass
 Google Hangout
 Grindr
-HGTV
 Harvard
+HGTV
 Hiking
 Howard Johnson
 Ikea
@@ -42,6 +44,8 @@ Ikea
 Ikea
 Ikea
 Instagram
+iPhone
+iTunes
 Jockey
 Jockey
 Lenovo
@@ -67,7 +71,6 @@ Pinterest
 Podcasts
 Reddit
 Reddit
-SONY
 Samsung
 Segways
 Silk Road
@@ -75,6 +78,7 @@ Skype
 Slack
 Slack
 Snapchat
+SONY
 Sound Cloud
 Soylent
 Spotify
@@ -97,7 +101,3 @@ Whatsapp
 Yahoo Answers
 Yearbook
 Yelp
-del.icio.us
-iPhone
-iTunes
-Flipkart
