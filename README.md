@@ -4,7 +4,7 @@
 This is a simple program which generates psuedo random startup ideas, based on a "The X for Y" format.  Our Twitter Bot can be found here: https://twitter.com/NextBigThingBot.
 
 ## Helping
-If you would like to help , you can : 
+If you would like to help you can : 
 - Add X's to X.txt.
 - Add Y's to Y.txt.
 
