@@ -4,7 +4,7 @@
 This is a simple program which generates psuedo random startup ideas, based on a "The X for Y" format.  Our Twitter Bot can be found here: https://twitter.com/NextBigThingBot.
 
 ## Helping
-If you would like to help you can : 
+If you would like to help , you can : 
 - Add X's to X.txt.
 - Add Y's to Y.txt.
 
@@ -15,6 +15,7 @@ Some items are mentions more than once, like Uber.  This increases the likelihoo
 
 ## Ideas
 Here's a list of some of our ideas.
+
 The next big thing is: Coachella for Dog Walkers
 
 The next big thing is: Spotify for People with pools
