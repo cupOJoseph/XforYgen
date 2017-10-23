@@ -7,6 +7,7 @@ Amazon
 Apple
 App Store
 Bitbucket
+Blogs
 Bumble
 Cafeteria
 Canon
@@ -96,9 +97,11 @@ Urban Clap
 Urban Dictionary
 Venmo
 Victoria's Secret
+Vimeo
 Waze
 WeWork
 Whatsapp
 Yahoo Answers
 Yearbook
 Yelp
+Youtube
