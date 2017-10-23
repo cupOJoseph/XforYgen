@@ -75,12 +75,15 @@ jocks
 Jungle juice
 keychains
 Lawyers
+Managers
 Mansions
 Millenials
 Millenials
 Mixed drinks
 Mr. Robot
 Multipurpose event spaces
+Music
+Musicians
 Music festivals
 Novels
 old people that refuse to use computers
@@ -95,6 +98,7 @@ Perscription pills
 pets
 Photographers
 pirated movies
+Podcasts
 pools
 project managers
 Prom dresses
@@ -109,6 +113,7 @@ School lunches
 Scientists
 Sellers
 Sneaking onto private rooftops
+Software developers
 souvenir shotglasses
 sperlunking
 stealing other people's Netflix accounts
