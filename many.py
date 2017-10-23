@@ -15,5 +15,6 @@ for num in range(0,times):
     s = "The next big thing is: "
     s = s + random.choice(X) + " for " + random.choice(Y)
     print (s)
+    print("")
 
 print ("bye")
