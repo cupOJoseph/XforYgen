@@ -7,6 +7,7 @@ AirBnB
 Amazon
 Apple
 App Store
+Betterment
 Ashley Madison
 Bing
 Bitbucket
@@ -108,9 +109,12 @@ Venmo
 Value Village
 Victoria's Secret
 Waze
+Wealthfront
 WeWork
 Whatsapp
 Yahoo Answers
 Yearbook
 Yelp
 YouTube
+ZipCar
+Zume
