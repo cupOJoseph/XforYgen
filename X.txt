@@ -6,6 +6,7 @@ AirBnB
 Amazon
 Apple
 App Store
+Betterment
 Bitbucket
 Bumble
 Cafeteria
@@ -97,8 +98,12 @@ Urban Dictionary
 Venmo
 Victoria's Secret
 Waze
+Wealthfront
 WeWork
 Whatsapp
 Yahoo Answers
 Yearbook
 Yelp
+YouTube
+ZipCar
+Zume
