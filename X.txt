@@ -2,16 +2,20 @@
 7/11
 500px
 Acer
+Adidas
 AirBnB
 Amazon
 Apple
 App Store
+Ashley Madison
+Bing
 Bitbucket
 Bumble
 Cafeteria
 Canon
 Canva
 Chipotle
+Christian Mingle
 CNN
 Coachella
 Craigslist
@@ -44,6 +48,7 @@ Ikea
 Ikea
 Ikea
 Ikea
+Indiegogo
 Instagram
 iPhone
 iTunes
@@ -61,11 +66,14 @@ Mike Tyson's Punch-Out
 Motorola
 Napster
 Netflix
+Nike
 Nikon
+Nutella
 Palm Pilots
 Pandora
 Pandora
 Pandora
+Patreon
 Periscope
 Pinterest
 Pinterest
@@ -74,6 +82,7 @@ Reddit
 Reddit
 Samsung
 Segways
+Shake Weight
 Silk Road
 Skype
 Slack
@@ -87,6 +96,7 @@ Spotify
 Stubhub
 Tidal
 Tinder
+Trello
 TwitchTV
 Twitter
 Uber
@@ -95,6 +105,7 @@ Uber Eats
 Urban Clap
 Urban Dictionary
 Venmo
+Value Village
 Victoria's Secret
 Waze
 WeWork
@@ -102,3 +113,4 @@ Whatsapp
 Yahoo Answers
 Yearbook
 Yelp
+YouTube
