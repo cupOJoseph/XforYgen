@@ -36,6 +36,7 @@ Flipkart
 Fox News
 Fruit Loops
 GitHub
+Gitlab
 Google
 Google Drive
 Google Fit
