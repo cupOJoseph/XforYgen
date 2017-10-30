@@ -24,10 +24,8 @@ Craigslist
 del.icio.us
 Dell
 Dropbox
-Dropbox
 Equifax
 Etsy
-Evernote
 Evernote
 Facebook
 Fiverr
@@ -47,9 +45,6 @@ Harvard
 HGTV
 Hiking
 Howard Johnson
-Ikea
-Ikea
-Ikea
 Ikea
 Indiegogo
 Instagram
@@ -74,11 +69,8 @@ Nikon
 Nutella
 Palm Pilots
 Pandora
-Pandora
-Pandora
 Patreon
 Periscope
-Pinterest
 Pinterest
 Podcasts
 Pornhub
@@ -90,20 +82,19 @@ Shake Weight
 Silk Road
 Skype
 Slack
-Slack
 Snapchat
 SONY
 Sound Cloud
 Soylent
-Spotify
+SpaceX
 Spotify
 Stubhub
+Tesla
 Tidal
 Tinder
 Trello
 TwitchTV
 Twitter
-Uber
 Uber
 Uber Eats
 Urban Clap
