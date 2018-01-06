@@ -3,8 +3,10 @@
 ## Description
 This is a simple program which generates psuedo random startup ideas, based on a "The X for Y" format.  Our Twitter Bot can be found here: https://twitter.com/NextBigThingBot.
 
+This bot is currently hosted on [Glitch](http://glitch.com).  We use [uptimerobot](https://uptimerobot.com/) to make an http request every 12 hours to the server where this is hosted.  Every time the server gets any ping it will tweet.
+
 ## Helping
-If you would like to help you can : 
+If you would like to help you can :
 - Add X's to X.txt.
 - Add Y's to Y.txt.
 
