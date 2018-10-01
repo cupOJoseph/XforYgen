@@ -12,6 +12,7 @@ App Store
 Ashley Madison
 Asus
 Beats by Dre
+Beme
 Bethesda Games
 Betterment
 Bing
@@ -26,6 +27,7 @@ Canon
 Canonical
 Canva
 Coca-Cola
+Chase
 Chipotle
 Christian Mingle
 CNN
@@ -155,6 +157,7 @@ Telegram
 The Boring Company
 Tidal
 Tinder
+Tor
 Trello
 TwitchTV
 Twitter
