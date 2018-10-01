@@ -35,6 +35,7 @@ Dell
 Discord
 Dropbox
 Dropbox
+Edx
 Electonic Arts
 ELEKS
 Equifax
@@ -52,12 +53,14 @@ Fox News
 Fruit Loops
 GitHub
 Gitlab
+GoFundMe
 Google
 Google Drive
 Google Fit
 Google Glass
 Google Hangout
 Grindr
+Hackernews
 Hard Bass
 Harvard
 Hewlett Packard
@@ -76,6 +79,7 @@ iTunes
 Jobs
 Jockey
 Jockey
+Kickstarter
 Kiwix
 KPMG
 Lenovo
