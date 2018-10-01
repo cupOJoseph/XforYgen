@@ -18,12 +18,15 @@ Bing
 Bitbucket
 Blizzard Entertainment
 Blogs
+BMW
 Bumble
+Buggati
 Cafeteria
 Canadian Tire
 Canon
 Canonical
 Canva
+Chevrolet
 Chipotle
 Christian Mingle
 CNN
@@ -33,16 +36,20 @@ Craigslist
 del.icio.us
 Dell
 Discord
+Dodge
 Dropbox
 Dropbox
+Duracell
 Electonic Arts
 ELEKS
 Equifax
 Esquire
 Etsy
+Everready
 Evernote
 Evernote
 Facebook
+Ferrari
 Fiverr
 Flickr
 Flipkart
@@ -52,6 +59,7 @@ Fox News
 Fruit Loops
 GitHub
 Gitlab
+Godrej
 Google
 Google Drive
 Google Fit
@@ -78,6 +86,7 @@ Jockey
 Jockey
 Kiwix
 KPMG
+Lamborghini
 Lenovo
 LinkedIn
 LinkedIn
@@ -95,6 +104,7 @@ Mojang
 Motorola
 MSI
 MSN
+Munchini
 Napster
 Netflix
 Nike
@@ -127,15 +137,18 @@ Snapchat
 SoftServe
 SONY
 SoundCloud
+Souq.com
 Soylent
 Spotify
 Spotify
 Steam
 Stubhub
+Tesla
 Ted-Ed
 Telegram
 Tidal
 Tinder
+Toyota
 Trello
 TwitchTV
 Twitter
@@ -146,6 +159,7 @@ Uber
 Uber Eats
 Urban Clap
 Urban Dictionary
+Volkswagen
 Value Village
 Valve
 Venmo
