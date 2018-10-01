@@ -5,10 +5,12 @@ Acer
 Adidas
 AirBnB
 Amazon
+Apache
 Apple
 App Store
 Betterment
 Ashley Madison
+Beats by Dre
 Bing
 Bitbucket
 Blogs
@@ -57,6 +59,8 @@ iPhone
 iTunes
 Jockey
 Jockey
+Kiwix
+KPMG
 Lenovo
 LinkedIn
 LinkedIn
@@ -67,6 +71,7 @@ Microsoft
 Microsoft Outlook
 Mike Tyson's Punch-Out
 Motorola
+MSI
 Napster
 Netflix
 Nike
@@ -116,6 +121,7 @@ Waze
 Wealthfront
 WeWork
 Whatsapp
+Xiaomi
 Yahoo Answers
 Yearbook
 Yelp
