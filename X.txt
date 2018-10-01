@@ -10,8 +10,8 @@ Apache
 Apple
 App Store
 Ashley Madison
-Beats by Dre
 Asus
+Beats by Dre
 Bethesda Games
 Betterment
 Bing
@@ -22,6 +22,7 @@ Bumble
 Cafeteria
 Canadian Tire
 Canon
+Canonical
 Canva
 Chipotle
 Christian Mingle
@@ -34,9 +35,9 @@ Dell
 Discord
 Dropbox
 Dropbox
-Equifax
 Electonic Arts
 ELEKS
+Equifax
 Esquire
 Etsy
 Evernote
@@ -45,9 +46,9 @@ Facebook
 Fiverr
 Flickr
 Flipkart
+Food
 Forbes
 Fox News
-Food
 Fruit Loops
 GitHub
 Gitlab
@@ -90,6 +91,7 @@ Microsoft
 Microsoft Outlook
 Mike Tyson's Punch-Out
 Minecraft
+Mojang
 Motorola
 MSI
 MSN
@@ -112,6 +114,7 @@ Pornhub
 ProtonMail
 Reddit
 Reddit
+Red Hat
 Samsung
 Segways
 Shake Weight
@@ -141,9 +144,9 @@ Uber
 Uber Eats
 Urban Clap
 Urban Dictionary
-Venmo
 Value Village
 Valve
+Venmo
 Viber
 Victoria's Secret
 Vimeo
