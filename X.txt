@@ -8,9 +8,11 @@ AirBnB
 Amazon
 Apache
 Apple
+Apple Watch
 App Store
 Ashley Madison
 Asus
+Authy
 Beats by Dre
 Bethesda Games
 Betterment
@@ -61,6 +63,8 @@ Google Drive
 Google Fit
 Google Glass
 Google Hangout
+Google Authenticator
+Google Play
 Grindr
 Gucci
 Hard Bass
@@ -115,6 +119,7 @@ Nintendo
 Nokia
 Nutella
 NY Times
+OnePlus
 Palm Pilots
 Pandora
 Pandora
@@ -130,7 +135,9 @@ ProtonMail
 Reddit
 Reddit
 Red Hat
+Sainsbury's
 Samsung
+Shpock
 Segways
 Shake Weight
 Shazam
@@ -145,6 +152,7 @@ SONY
 SoundCloud
 Soylent
 SpaceX
+Splash Damage
 Spotify
 Spotify
 Starbucks
@@ -152,6 +160,7 @@ Steam
 Stubhub
 Ted-Ed
 Telegram
+Tesco
 The Boring Company
 Tidal
 Tinder
@@ -172,6 +181,7 @@ Viber
 Victoria's Secret
 Vimeo
 Vodafone
+Waitrose
 Wal-Mart
 Waze
 Wealthfront
