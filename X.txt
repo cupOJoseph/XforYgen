@@ -6,9 +6,11 @@ Adidas
 Adobe
 AirBnB
 Amazon
+Apache
 Apple
 App Store
 Ashley Madison
+Beats by Dre
 Asus
 Bethesda Games
 Betterment
@@ -73,6 +75,8 @@ iTunes
 Jobs
 Jockey
 Jockey
+Kiwix
+KPMG
 Lenovo
 LinkedIn
 LinkedIn
@@ -147,6 +151,7 @@ Waze
 Wealthfront
 WeWork
 Whatsapp
+Xiaomi
 Yahoo Answers
 Yearbook
 Yelp
