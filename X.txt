@@ -48,14 +48,10 @@ HGTV
 Hiking
 Howard Johnson
 Ikea
-Ikea
-Ikea
-Ikea
 Indiegogo
 Instagram
 iPhone
 iTunes
-Jockey
 Jockey
 Lenovo
 LinkedIn
@@ -74,15 +70,11 @@ Nikon
 Nutella
 Palm Pilots
 Pandora
-Pandora
-Pandora
 Patreon
 Periscope
 Pinterest
-Pinterest
 Podcasts
 Pornhub
-Reddit
 Reddit
 Samsung
 Segways
@@ -90,12 +82,10 @@ Shake Weight
 Silk Road
 Skype
 Slack
-Slack
 Snapchat
 SONY
 Sound Cloud
 Soylent
-Spotify
 Spotify
 Stubhub
 Tidal
@@ -103,7 +93,6 @@ Tinder
 Trello
 TwitchTV
 Twitter
-Uber
 Uber
 Uber Eats
 Urban Clap
