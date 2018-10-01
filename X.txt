@@ -2,6 +2,7 @@
 500px
 7/11
 Acer
+Activision
 Adidas
 Adobe
 AirBnB
@@ -62,6 +63,7 @@ Google Fit
 Google Glass
 Google Hangout
 Grindr
+Groupon
 Gucci
 Hard Bass
 Harvard
@@ -147,6 +149,7 @@ Soylent
 SpaceX
 Spotify
 Spotify
+Square Enix
 Starbucks
 Steam
 Stubhub
@@ -179,6 +182,7 @@ WeWork
 Whatsapp
 Xerox
 Xiaomi
+Yahoo
 Yahoo Answers
 Yearbook
 Yelp
