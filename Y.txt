@@ -11,6 +11,7 @@ Bedtime stories
 Bikers
 Binge Watchers
 Biologists
+Blankets
 Blockbuster
 Bloggers
 Blogging
@@ -24,6 +25,7 @@ Cats
 Cheesy romantic comedies
 Chinese knock-offs
 Cities
+Clock
 Cocktails
 Coders
 Condiments
@@ -80,6 +82,7 @@ Incubators
 Interior Decorating
 jocks
 Jungle juice
+Keyboard
 keychains
 Lawyers
 Managers
@@ -89,6 +92,7 @@ Millenials
 Millenials
 Mixed drinks
 Mothers
+Mouse
 Mr. Robot
 Multipurpose event spaces
 Music
@@ -108,6 +112,7 @@ People with pools
 Perscription pills
 pets
 Photographers
+Pillows
 pirated movies
 Priests
 Podcasts
@@ -133,6 +138,7 @@ stealing other people's Netflix accounts
 stoners
 students
 Students orgs
+Table
 Teenagers
 Thanksgiving Dinners
 the Amish
@@ -155,5 +161,6 @@ Warehouses
 Washed up quarterbacks
 watches
 Weed
+Windows
 Wrestling
 Youtubers
