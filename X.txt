@@ -17,6 +17,7 @@ Cafeteria
 Canon
 Canva
 Chipotle
+Cisco
 Christian Mingle
 CNN
 Coachella
@@ -25,6 +26,7 @@ del.icio.us
 Dell
 Dropbox
 Dropbox
+Ericsson
 Equifax
 Etsy
 Evernote
@@ -47,6 +49,9 @@ Harvard
 HGTV
 Hiking
 Howard Johnson
+HTC
+Honda
+IBM
 Ikea
 Ikea
 Ikea
@@ -58,6 +63,7 @@ iTunes
 Jobs
 Jockey
 Jockey
+Juniper
 Lenovo
 LinkedIn
 LinkedIn
@@ -69,11 +75,13 @@ Microsoft
 Microsoft Outlook
 Mike Tyson's Punch-Out
 Motorola
+Mozilla
 Napster
 Netflix
 Nike
 Nikon
 Nutella
+Opera
 Palm Pilots
 Pandora
 Pandora
@@ -86,6 +94,7 @@ Podcasts
 Pornhub
 Reddit
 Reddit
+Redtube
 Samsung
 Segways
 Shake Weight
@@ -93,6 +102,7 @@ Silk Road
 Skype
 Slack
 Slack
+Splunk
 Snapchat
 SONY
 Sound Cloud
