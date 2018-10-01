@@ -34,6 +34,7 @@ Fiverr
 Flickr
 Flipkart
 Fox News
+Food
 Fruit Loops
 GitHub
 Gitlab
@@ -43,6 +44,7 @@ Google Fit
 Google Glass
 Google Hangout
 Grindr
+Hard Bass
 Harvard
 HGTV
 Hiking
@@ -53,6 +55,7 @@ Ikea
 Ikea
 Indiegogo
 Instagram
+Internet
 iPhone
 iTunes
 Jobs
@@ -68,6 +71,7 @@ Micromax
 Microsoft
 Microsoft Outlook
 Mike Tyson's Punch-Out
+Minecraft
 Motorola
 Napster
 Netflix
