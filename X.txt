@@ -1,33 +1,43 @@
 4chan
-7/11
 500px
+7/11
 Acer
 Adidas
+Adobe
 AirBnB
 Amazon
 Apache
 Apple
 App Store
-Betterment
 Ashley Madison
 Beats by Dre
+Asus
+Bethesda Games
+Betterment
 Bing
 Bitbucket
+Blizzard Entertainment
 Blogs
 Bumble
 Cafeteria
+Canadian Tire
 Canon
 Canva
 Chipotle
 Christian Mingle
 CNN
 Coachella
+Coursera
 Craigslist
 del.icio.us
 Dell
+Discord
 Dropbox
 Dropbox
 Equifax
+Electonic Arts
+ELEKS
+Esquire
 Etsy
 Evernote
 Evernote
@@ -35,7 +45,9 @@ Facebook
 Fiverr
 Flickr
 Flipkart
+Forbes
 Fox News
+Food
 Fruit Loops
 GitHub
 Gitlab
@@ -45,7 +57,9 @@ Google Fit
 Google Glass
 Google Hangout
 Grindr
+Hard Bass
 Harvard
+Hewlett Packard
 HGTV
 Hiking
 Howard Johnson
@@ -55,8 +69,10 @@ Ikea
 Ikea
 Indiegogo
 Instagram
+Internet
 iPhone
 iTunes
+Jobs
 Jockey
 Jockey
 Kiwix
@@ -65,18 +81,24 @@ Lenovo
 LinkedIn
 LinkedIn
 Lyft
+Mathematics
 McDonald's
+Medium
+Meizu
 Micromax
 Microsoft
 Microsoft Outlook
 Mike Tyson's Punch-Out
+Minecraft
 Motorola
 MSI
+MSN
 Napster
 Netflix
 Nike
 Nikon
 Nutella
+NY Times
 Palm Pilots
 Pandora
 Pandora
@@ -87,22 +109,28 @@ Pinterest
 Pinterest
 Podcasts
 Pornhub
+ProtonMail
 Reddit
 Reddit
 Samsung
 Segways
 Shake Weight
+Shazam
 Silk Road
 Skype
 Slack
 Slack
 Snapchat
+SoftServe
 SONY
-Sound Cloud
+SoundCloud
 Soylent
 Spotify
 Spotify
+Steam
 Stubhub
+Ted-Ed
+Telegram
 Tidal
 Tinder
 Trello
@@ -115,6 +143,8 @@ Urban Clap
 Urban Dictionary
 Venmo
 Value Village
+Valve
+Viber
 Victoria's Secret
 Vimeo
 Waze
