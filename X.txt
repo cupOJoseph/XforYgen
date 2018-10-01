@@ -16,6 +16,7 @@ Bethesda Games
 Betterment
 Bing
 Bitbucket
+BlackBerry
 Blizzard Entertainment
 Blogs
 Bumble
@@ -24,6 +25,7 @@ Canadian Tire
 Canon
 Canonical
 Canva
+Coca-Cola
 Chipotle
 Christian Mingle
 CNN
@@ -35,6 +37,7 @@ Dell
 Discord
 Dropbox
 Dropbox
+eBay
 Electonic Arts
 ELEKS
 Equifax
@@ -43,6 +46,7 @@ Etsy
 Evernote
 Evernote
 Facebook
+Ferrari
 Fiverr
 Flickr
 Flipkart
@@ -58,12 +62,15 @@ Google Fit
 Google Glass
 Google Hangout
 Grindr
+Gucci
 Hard Bass
 Harvard
 Hewlett Packard
 HGTV
 Hiking
+Home Depot
 Howard Johnson
+IBM
 Ikea
 Ikea
 Ikea
@@ -73,15 +80,19 @@ Instagram
 Internet
 iPhone
 iTunes
+Jack Daniel's
 Jobs
 Jockey
 Jockey
 Kiwix
+KFC
 KPMG
 Lenovo
 LinkedIn
 LinkedIn
+L'Oréal
 Lyft
+MasterCard
 Mathematics
 McDonald's
 Medium
@@ -91,6 +102,7 @@ Microsoft
 Microsoft Outlook
 Mike Tyson's Punch-Out
 Minecraft
+Mitsubishi
 Mojang
 Motorola
 MSI
@@ -99,6 +111,8 @@ Napster
 Netflix
 Nike
 Nikon
+Nintendo
+Nokia
 Nutella
 NY Times
 Palm Pilots
@@ -109,6 +123,7 @@ Patreon
 Periscope
 Pinterest
 Pinterest
+Pizza Hut
 Podcasts
 Pornhub
 ProtonMail
@@ -119,6 +134,7 @@ Samsung
 Segways
 Shake Weight
 Shazam
+Shell
 Silk Road
 Skype
 Slack
@@ -128,12 +144,15 @@ SoftServe
 SONY
 SoundCloud
 Soylent
+SpaceX
 Spotify
 Spotify
+Starbucks
 Steam
 Stubhub
 Ted-Ed
 Telegram
+The Boring Company
 Tidal
 Tinder
 Trello
@@ -152,10 +171,13 @@ Venmo
 Viber
 Victoria's Secret
 Vimeo
+Vodafone
+Wal-Mart
 Waze
 Wealthfront
 WeWork
 Whatsapp
+Xerox
 Xiaomi
 Yahoo Answers
 Yearbook
