@@ -8,6 +8,7 @@ Barbeques
 Bars
 Bat Mitzvah money
 Bedtime stories
+Bigdata
 Bikers
 Binge Watchers
 Biologists
@@ -30,6 +31,7 @@ Condiments
 Corporate culture
 Cowpokes
 Crowbars
+Crypto trading
 Cycling
 Dentists
 Designers
@@ -50,6 +52,7 @@ failing newspaper companies
 Fathers
 Flowers
 football fans
+Food delivery
 Frat boys
 Frat parties
 Frost bite
@@ -89,6 +92,7 @@ Millenials
 Millenials
 Mixed drinks
 Mothers
+Mountain climbing
 Mr. Robot
 Multipurpose event spaces
 Music
@@ -155,5 +159,6 @@ Warehouses
 Washed up quarterbacks
 watches
 Weed
+Wildlife safari
 Wrestling
 Youtubers
