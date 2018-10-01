@@ -5,6 +5,7 @@ Acer
 Adidas
 Adobe
 AirBnB
+AlienWare
 Amazon
 Apache
 Apple
@@ -18,12 +19,14 @@ Bing
 Bitbucket
 Blizzard Entertainment
 Blogs
+BMW
 Bumble
 Cafeteria
 Canadian Tire
 Canon
 Canonical
 Canva
+Carrefour
 Chipotle
 Christian Mingle
 CNN
@@ -35,6 +38,7 @@ Dell
 Discord
 Dropbox
 Dropbox
+edX
 Electonic Arts
 ELEKS
 Equifax
@@ -47,6 +51,7 @@ Fiverr
 Flickr
 Flipkart
 Food
+Food Panda
 Forbes
 Fox News
 Fruit Loops
@@ -58,7 +63,9 @@ Google Fit
 Google Glass
 Google Hangout
 Grindr
+Hannah Montannah
 Hard Bass
+Harley Davidson
 Harvard
 Hewlett Packard
 HGTV
@@ -76,12 +83,15 @@ iTunes
 Jobs
 Jockey
 Jockey
+KFC
 Kiwix
 KPMG
+Lays
 Lenovo
 LinkedIn
 LinkedIn
 Lyft
+Marks & Spencers
 Mathematics
 McDonald's
 Medium
@@ -96,11 +106,15 @@ Motorola
 MSI
 MSN
 Napster
+NDTV
 Netflix
+New York Fries
 Nike
 Nikon
 Nutella
 NY Times
+Ola
+Oppo
 Palm Pilots
 Pandora
 Pandora
@@ -112,9 +126,12 @@ Pinterest
 Podcasts
 Pornhub
 ProtonMail
+Pringles
+Reebok
 Reddit
 Reddit
 Red Hat
+Rolls Royce
 Samsung
 Segways
 Shake Weight
@@ -130,20 +147,23 @@ SoundCloud
 Soylent
 Spotify
 Spotify
+Stanford
 Steam
 Stubhub
+Subway
+Taco Bell
 Ted-Ed
 Telegram
 Tidal
 Tinder
+Tommy Hilfigur
 Trello
 TwitchTV
 Twitter
-Udacity
-Udemy
 Uber
 Uber
 Uber Eats
+Unity
 Urban Clap
 Urban Dictionary
 Value Village
@@ -152,6 +172,7 @@ Venmo
 Viber
 Victoria's Secret
 Vimeo
+Volvo
 Waze
 Wealthfront
 WeWork
@@ -161,5 +182,6 @@ Yahoo Answers
 Yearbook
 Yelp
 YouTube
+Zara
 ZipCar
 Zume
