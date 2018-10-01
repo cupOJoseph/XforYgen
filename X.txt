@@ -12,7 +12,9 @@ Ashley Madison
 Bing
 Bitbucket
 Blogs
+BMW
 Bumble
+Burger King
 Cafeteria
 Canon
 Canva
@@ -23,11 +25,12 @@ Coachella
 Craigslist
 del.icio.us
 Dell
+Domino's Pizza
 Dropbox
 Dropbox
+Epic Games
 Equifax
 Etsy
-Evernote
 Evernote
 Facebook
 Fiverr
@@ -57,6 +60,7 @@ iPhone
 iTunes
 Jockey
 Jockey
+KFC
 Lenovo
 LinkedIn
 LinkedIn
@@ -71,26 +75,26 @@ Napster
 Netflix
 Nike
 Nikon
+Nintendo
 Nutella
 Palm Pilots
 Pandora
-Pandora
-Pandora
+Papa John's Pizza
 Patreon
 Periscope
-Pinterest
 Pinterest
 Podcasts
 Pornhub
 Reddit
 Reddit
 Samsung
+SEAT
 Segways
 Shake Weight
 Silk Road
 Skype
 Slack
-Slack
+Smyths
 Snapchat
 SONY
 Sound Cloud
@@ -112,6 +116,8 @@ Venmo
 Value Village
 Victoria's Secret
 Vimeo
+Vodafone
+Volkswagen
 Waze
 Wealthfront
 WeWork
