@@ -10,19 +10,22 @@ Apache
 Apple
 App Store
 Ashley Madison
-Beats by Dre
 Asus
+Beats by Dre
 Bethesda Games
 Betterment
 Bing
 Bitbucket
+BlackBerry
 Blizzard Entertainment
 Blogs
 Bumble
 Cafeteria
 Canadian Tire
 Canon
+Canonical
 Canva
+Coca-Cola
 Chipotle
 Christian Mingle
 CNN
@@ -34,20 +37,22 @@ Dell
 Discord
 Dropbox
 Dropbox
-Equifax
+eBay
 Electonic Arts
 ELEKS
+Equifax
 Esquire
 Etsy
 Evernote
 Evernote
 Facebook
+Ferrari
 Fiverr
 Flickr
 Flipkart
+Food
 Forbes
 Fox News
-Food
 Fruit Loops
 GitHub
 Gitlab
@@ -57,12 +62,15 @@ Google Fit
 Google Glass
 Google Hangout
 Grindr
+Gucci
 Hard Bass
 Harvard
 Hewlett Packard
 HGTV
 Hiking
+Home Depot
 Howard Johnson
+IBM
 Ikea
 Ikea
 Ikea
@@ -72,15 +80,19 @@ Instagram
 Internet
 iPhone
 iTunes
+Jack Daniel's
 Jobs
 Jockey
 Jockey
 Kiwix
+KFC
 KPMG
 Lenovo
 LinkedIn
 LinkedIn
+L'Oréal
 Lyft
+MasterCard
 Mathematics
 McDonald's
 Medium
@@ -90,13 +102,18 @@ Microsoft
 Microsoft Outlook
 Mike Tyson's Punch-Out
 Minecraft
+Mitsubishi
+Mojang
 Motorola
 MSI
 MSN
 Napster
+National Geographic
 Netflix
 Nike
 Nikon
+Nintendo
+Nokia
 Nutella
 NY Times
 Palm Pilots
@@ -107,15 +124,18 @@ Patreon
 Periscope
 Pinterest
 Pinterest
+Pizza Hut
 Podcasts
 Pornhub
 ProtonMail
 Reddit
 Reddit
+Red Hat
 Samsung
 Segways
 Shake Weight
 Shazam
+Shell
 Silk Road
 Skype
 Slack
@@ -125,32 +145,42 @@ SoftServe
 SONY
 SoundCloud
 Soylent
+SpaceX
 Spotify
 Spotify
+Starbucks
 Steam
 Stubhub
 Ted-Ed
 Telegram
+The Boring Company
+The Learning Channel
 Tidal
 Tinder
 Trello
+Tumblr
 TwitchTV
 Twitter
+Udacity
+Udemy
 Uber
 Uber
 Uber Eats
 Urban Clap
 Urban Dictionary
-Venmo
 Value Village
 Valve
+Venmo
 Viber
 Victoria's Secret
 Vimeo
+Vodafone
+Wal-Mart
 Waze
 Wealthfront
 WeWork
 Whatsapp
+Xerox
 Xiaomi
 Yahoo Answers
 Yearbook
