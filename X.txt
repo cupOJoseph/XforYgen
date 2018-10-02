@@ -40,6 +40,7 @@ Dropbox
 eBay
 Electonic Arts
 ELEKS
+EMS
 Equifax
 Esquire
 Etsy
@@ -116,6 +117,7 @@ Nintendo
 Nokia
 Nutella
 NY Times
+OnePlus
 Palm Pilots
 Pandora
 Pandora
@@ -131,6 +133,7 @@ ProtonMail
 Reddit
 Reddit
 Red Hat
+Robots
 Samsung
 Segways
 Shake Weight
