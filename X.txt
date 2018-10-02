@@ -46,6 +46,7 @@ Etsy
 Evernote
 Evernote
 Facebook
+Facebook Dating
 Ferrari
 Fiverr
 Flickr
@@ -57,6 +58,7 @@ Fruit Loops
 GitHub
 Gitlab
 Google
+Google Chrome
 Google Drive
 Google Fit
 Google Glass
@@ -70,6 +72,7 @@ HGTV
 Hiking
 Home Depot
 Howard Johnson
+HTC
 IBM
 Ikea
 Ikea
@@ -96,6 +99,7 @@ MasterCard
 Mathematics
 McDonald's
 Medium
+MEGA
 Meizu
 Micromax
 Microsoft
@@ -116,6 +120,8 @@ Nintendo
 Nokia
 Nutella
 NY Times
+OKCupid
+OnePlus
 Palm Pilots
 Pandora
 Pandora
@@ -151,6 +157,7 @@ Spotify
 Starbucks
 Steam
 Stubhub
+Swiggy
 Ted-Ed
 Telegram
 The Boring Company
@@ -188,3 +195,4 @@ Yelp
 YouTube
 ZipCar
 Zume
+Zomato
