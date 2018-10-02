@@ -4,14 +4,16 @@
 Acer
 Adidas
 Adobe
+Adobe Photoshop
 AirBnB
 Amazon
 Apache
-Apple
 App Store
+Apple
 Ashley Madison
-Beats by Dre
 Asus
+Autodesk
+Beats by Dre
 Bethesda Games
 Betterment
 Bing
@@ -34,9 +36,9 @@ Dell
 Discord
 Dropbox
 Dropbox
-Equifax
 Electonic Arts
 ELEKS
+Equifax
 Esquire
 Etsy
 Evernote
@@ -45,10 +47,11 @@ Facebook
 Fiverr
 Flickr
 Flipkart
+Food
 Forbes
 Fox News
-Food
 Fruit Loops
+Fujifilms
 GitHub
 Gitlab
 Google
@@ -57,6 +60,7 @@ Google Fit
 Google Glass
 Google Hangout
 Grindr
+Gucci
 Hard Bass
 Harvard
 Hewlett Packard
@@ -75,9 +79,11 @@ iTunes
 Jobs
 Jockey
 Jockey
+KitchenAid
 Kiwix
 KPMG
 Lenovo
+Lime
 LinkedIn
 LinkedIn
 Lyft
@@ -99,6 +105,7 @@ Nike
 Nikon
 Nutella
 NY Times
+OnePlus
 Palm Pilots
 Pandora
 Pandora
@@ -109,7 +116,9 @@ Pinterest
 Pinterest
 Podcasts
 Pornhub
+Prada
 ProtonMail
+Quora
 Reddit
 Reddit
 Samsung
@@ -121,6 +130,7 @@ Skype
 Slack
 Slack
 Snapchat
+Snapdeal
 SoftServe
 SONY
 SoundCloud
@@ -129,6 +139,8 @@ Spotify
 Spotify
 Steam
 Stubhub
+Taco Bell
+Target
 Ted-Ed
 Telegram
 Tidal
@@ -141,12 +153,14 @@ Uber
 Uber Eats
 Urban Clap
 Urban Dictionary
-Venmo
 Value Village
 Valve
+Venmo
 Viber
 Victoria's Secret
 Vimeo
+Vine
+Walmart
 Waze
 Wealthfront
 WeWork
@@ -157,4 +171,6 @@ Yearbook
 Yelp
 YouTube
 ZipCar
+Zomato
+Zoom Car
 Zume
