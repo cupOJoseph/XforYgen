@@ -8,14 +8,17 @@ AirBnB
 Amazon
 Apache
 Apple
+Apple Watch
 App Store
 Ashley Madison
 Asus
+Authy
 Beats by Dre
 Bethesda Games
 Betterment
 Bing
 Bitbucket
+BlackBerry
 Blizzard Entertainment
 Blogs
 BMW
@@ -27,6 +30,7 @@ Canon
 Canonical
 Canva
 Chevrolet
+Coca-Cola
 Chipotle
 Christian Mingle
 CNN
@@ -40,6 +44,8 @@ Dodge
 Dropbox
 Dropbox
 Duracell
+eBay
+Edx
 Electonic Arts
 ELEKS
 Equifax
@@ -60,18 +66,25 @@ Fruit Loops
 GitHub
 Gitlab
 Godrej
+GoFundMe
 Google
 Google Drive
 Google Fit
 Google Glass
 Google Hangout
+Google Authenticator
+Google Play
 Grindr
+Gucci
+Hackernews
 Hard Bass
 Harvard
 Hewlett Packard
 HGTV
 Hiking
+Home Depot
 Howard Johnson
+IBM
 Ikea
 Ikea
 Ikea
@@ -81,16 +94,21 @@ Instagram
 Internet
 iPhone
 iTunes
+Jack Daniel's
 Jobs
 Jockey
 Jockey
+Kickstarter
 Kiwix
+KFC
 KPMG
 Lamborghini
 Lenovo
 LinkedIn
 LinkedIn
+L'Oréal
 Lyft
+MasterCard
 Mathematics
 McDonald's
 Medium
@@ -100,17 +118,22 @@ Microsoft
 Microsoft Outlook
 Mike Tyson's Punch-Out
 Minecraft
+Mitsubishi
 Mojang
 Motorola
 MSI
 MSN
 Munchini
 Napster
+National Geographic
 Netflix
 Nike
 Nikon
+Nintendo
+Nokia
 Nutella
 NY Times
+OnePlus
 Palm Pilots
 Pandora
 Pandora
@@ -119,16 +142,20 @@ Patreon
 Periscope
 Pinterest
 Pinterest
+Pizza Hut
 Podcasts
 Pornhub
 ProtonMail
 Reddit
 Reddit
 Red Hat
+Sainsbury's
 Samsung
+Shpock
 Segways
 Shake Weight
 Shazam
+Shell
 Silk Road
 Skype
 Slack
@@ -139,17 +166,24 @@ SONY
 SoundCloud
 Souq.com
 Soylent
+SpaceX
+Splash Damage
 Spotify
 Spotify
+Starbucks
 Steam
 Stubhub
 Tesla
 Ted-Ed
 Telegram
+Tesco
+The Boring Company
+The Learning Channel
 Tidal
 Tinder
 Toyota
 Trello
+Tumblr
 TwitchTV
 Twitter
 Udacity
@@ -166,10 +200,14 @@ Venmo
 Viber
 Victoria's Secret
 Vimeo
+Vodafone
+Waitrose
+Wal-Mart
 Waze
 Wealthfront
 WeWork
 Whatsapp
+Xerox
 Xiaomi
 Yahoo Answers
 Yearbook
