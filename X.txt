@@ -9,6 +9,7 @@ Amazon
 Apache
 Apple
 App Store
+Ars Technica
 Ashley Madison
 Asus
 Beats by Dre
@@ -19,6 +20,7 @@ Bitbucket
 BlackBerry
 Blizzard Entertainment
 Blogs
+Boo Berry
 Bumble
 Cafeteria
 Canadian Tire
@@ -26,6 +28,7 @@ Canon
 Canonical
 Canva
 Coca-Cola
+Chick-fil-A
 Chipotle
 Christian Mingle
 CNN
@@ -36,14 +39,12 @@ del.icio.us
 Dell
 Discord
 Dropbox
-Dropbox
 eBay
 Electonic Arts
 ELEKS
 Equifax
 Esquire
 Etsy
-Evernote
 Evernote
 Facebook
 Ferrari
@@ -70,10 +71,8 @@ HGTV
 Hiking
 Home Depot
 Howard Johnson
+Hulu
 IBM
-Ikea
-Ikea
-Ikea
 Ikea
 Indiegogo
 Instagram
@@ -83,12 +82,10 @@ iTunes
 Jack Daniel's
 Jobs
 Jockey
-Jockey
 Kiwix
 KFC
 KPMG
 Lenovo
-LinkedIn
 LinkedIn
 L'Oréal
 Lyft
@@ -107,6 +104,7 @@ Mojang
 Motorola
 MSI
 MSN
+MSNBC
 Napster
 National Geographic
 Netflix
@@ -129,7 +127,6 @@ Podcasts
 Pornhub
 ProtonMail
 Reddit
-Reddit
 Red Hat
 Samsung
 Segways
@@ -139,14 +136,13 @@ Shell
 Silk Road
 Skype
 Slack
-Slack
+Slashdot
 Snapchat
 SoftServe
 SONY
 SoundCloud
 Soylent
 SpaceX
-Spotify
 Spotify
 Starbucks
 Steam
