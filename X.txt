@@ -116,6 +116,8 @@ Nintendo
 Nokia
 Nutella
 NY Times
+OnePlus
+Orkut
 Palm Pilots
 Pandora
 Pandora
@@ -125,6 +127,7 @@ Periscope
 Pinterest
 Pinterest
 Pizza Hut
+Play Store
 Podcasts
 Pornhub
 ProtonMail
