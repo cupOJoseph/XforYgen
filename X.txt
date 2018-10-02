@@ -35,6 +35,7 @@ Craigslist
 del.icio.us
 Dell
 Discord
+Domino's
 Dropbox
 Dropbox
 eBay
@@ -72,15 +73,14 @@ Home Depot
 Howard Johnson
 IBM
 Ikea
-Ikea
-Ikea
-Ikea
 Indiegogo
 Instagram
 Internet
+iPod
 iPhone
 iTunes
 Jack Daniel's
+Jenga
 Jobs
 Jockey
 Jockey
@@ -125,6 +125,7 @@ Periscope
 Pinterest
 Pinterest
 Pizza Hut
+play store 
 Podcasts
 Pornhub
 ProtonMail
@@ -163,7 +164,6 @@ TwitchTV
 Twitter
 Udacity
 Udemy
-Uber
 Uber
 Uber Eats
 Urban Clap
