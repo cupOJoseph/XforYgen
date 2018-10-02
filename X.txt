@@ -19,6 +19,7 @@ Bitbucket
 BlackBerry
 Blizzard Entertainment
 Blogs
+Boat
 Bumble
 Cafeteria
 Canadian Tire
@@ -54,13 +55,17 @@ Food
 Forbes
 Fox News
 Fruit Loops
+Git
 GitHub
 Gitlab
 Google
 Google Drive
+Google Duo
 Google Fit
 Google Glass
 Google Hangout
+Google Maps
+G-Mail
 Grindr
 Gucci
 Hard Bass
