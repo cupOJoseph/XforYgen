@@ -40,6 +40,7 @@ Discord
 Dropbox
 Dropbox
 eBay
+Edx
 Electonic Arts
 ELEKS
 Equifax
@@ -58,6 +59,7 @@ Fox News
 Fruit Loops
 GitHub
 Gitlab
+GoFundMe
 Google
 Google Drive
 Google Fit
@@ -67,6 +69,7 @@ Google Authenticator
 Google Play
 Grindr
 Gucci
+Hackernews
 Hard Bass
 Harvard
 Hewlett Packard
@@ -88,6 +91,7 @@ Jack Daniel's
 Jobs
 Jockey
 Jockey
+Kickstarter
 Kiwix
 KFC
 KPMG
