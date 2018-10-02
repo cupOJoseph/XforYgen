@@ -1,3 +1,4 @@
+23andMe
 4chan
 500px
 7/11
@@ -136,6 +137,7 @@ Segways
 Shake Weight
 Shazam
 Shell
+Shopify
 Silk Road
 Skype
 Slack
@@ -166,6 +168,7 @@ Udemy
 Uber
 Uber
 Uber Eats
+Uniqlo
 Urban Clap
 Urban Dictionary
 Value Village
