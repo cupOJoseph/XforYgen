@@ -14,6 +14,7 @@ Ashley Madison
 Asus
 Authy
 Beats by Dre
+Beme
 Bethesda Games
 Betterment
 Bing
@@ -31,6 +32,7 @@ Canonical
 Canva
 Chevrolet
 Coca-Cola
+Chase
 Chipotle
 Christian Mingle
 CNN
@@ -181,6 +183,7 @@ The Boring Company
 The Learning Channel
 Tidal
 Tinder
+Tor
 Toyota
 Trello
 Tumblr
