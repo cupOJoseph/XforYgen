@@ -8,7 +8,9 @@ AirBnB
 Amazon
 Apache
 Apple
+Appo
 App Store
+Appirio
 Ashley Madison
 Asus
 Beats by Dre
@@ -88,12 +90,14 @@ Kiwix
 KFC
 KPMG
 Lenovo
+LifesGood
 LinkedIn
 LinkedIn
 L'Oréal
 Lyft
 MasterCard
 Mathematics
+Mazza
 McDonald's
 Medium
 Meizu
@@ -121,6 +125,7 @@ Pandora
 Pandora
 Pandora
 Patreon
+Pepsi
 Periscope
 Pinterest
 Pinterest
@@ -140,6 +145,7 @@ Silk Road
 Skype
 Slack
 Slack
+Slice
 Snapchat
 SoftServe
 SONY
@@ -188,3 +194,9 @@ Yelp
 YouTube
 ZipCar
 Zume
+Zandu Realty Ltd.
+Zeal Aqua Ltd.
+Zee Entertainment Enterprises Ltd.
+Zee Learn Ltd.
+Zee Media Corporation Ltd.
+Zen Technologies Ltd.
