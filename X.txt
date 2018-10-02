@@ -108,6 +108,7 @@ Motorola
 MSI
 MSN
 Napster
+National Geographic
 Netflix
 Nike
 Nikon
@@ -153,9 +154,11 @@ Stubhub
 Ted-Ed
 Telegram
 The Boring Company
+The Learning Channel
 Tidal
 Tinder
 Trello
+Tumblr
 TwitchTV
 Twitter
 Udacity
