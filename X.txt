@@ -1,10 +1,12 @@
 4chan
 500px
 7/11
+AADHAAR
 Acer
 Adidas
 Adobe
 AirBnB
+Airtel
 Amazon
 Apache
 Apple
@@ -13,6 +15,7 @@ App Store
 Ashley Madison
 Asus
 Authy
+Bandhan Bank
 Beats by Dre
 Beme
 Bethesda Games
@@ -61,6 +64,7 @@ Ferrari
 Fiverr
 Flickr
 Flipkart
+Flipkart
 Food
 Forbes
 Fox News
@@ -78,25 +82,32 @@ Google Authenticator
 Google Play
 Grindr
 Gucci
+HackerEarth
 Hackernews
+HackerRank
 Hard Bass
 Harvard
+HDFC Bank
 Hewlett Packard
 HGTV
 Hiking
 Home Depot
 Howard Johnson
+hulu
 IBM
 Ikea
 Ikea
 Ikea
 Ikea
+IMDb
+India
 Indiegogo
 Instagram
 Internet
 iPhone
 iTunes
 Jack Daniel's
+Jio
 Jobs
 Jockey
 Jockey
@@ -136,6 +147,7 @@ Nokia
 Nutella
 NY Times
 OnePlus
+Oyo Rooms
 Palm Pilots
 Pandora
 Pandora
@@ -147,6 +159,7 @@ Pinterest
 Pizza Hut
 Podcasts
 Pornhub
+PrimeVideos
 ProtonMail
 Reddit
 Reddit
@@ -163,6 +176,7 @@ Skype
 Slack
 Slack
 Snapchat
+Snapdeal
 SoftServe
 SONY
 SoundCloud
@@ -186,6 +200,7 @@ Tinder
 Tor
 Toyota
 Trello
+Trial Netflix
 Tumblr
 TwitchTV
 Twitter
@@ -212,6 +227,7 @@ WeWork
 Whatsapp
 Xerox
 Xiaomi
+Xiaomi Poco F1
 Yahoo Answers
 Yearbook
 Yelp
