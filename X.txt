@@ -33,6 +33,7 @@ Coachella
 Coursera
 Craigslist
 del.icio.us
+Deliveroo
 Dell
 Discord
 Dropbox
@@ -63,6 +64,7 @@ Google Glass
 Google Hangout
 Grindr
 Gucci
+Guinness
 Hard Bass
 Harvard
 Hewlett Packard
@@ -153,6 +155,7 @@ Steam
 Stubhub
 Ted-Ed
 Telegram
+Tesla
 The Boring Company
 The Learning Channel
 Tidal
