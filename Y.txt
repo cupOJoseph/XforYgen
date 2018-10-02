@@ -15,6 +15,8 @@ Biologists
 Blockbuster
 Bloggers
 Blogging
+Board gamers
+Board games
 boats
 Bottles
 Boxers
@@ -32,12 +34,14 @@ Cocktails
 Cockatiels
 Coders
 College
+Computer Science Students
 Condiments
 Corporate culture
 Cowpokes
 Crowbars
 Cycling
 Dancing
+Democracts
 Dentists
 Designers
 Dictionary
@@ -134,9 +138,11 @@ Practicing vegans
 project managers
 Prom dresses
 public bath rooms
+Programmers
 Random Facebook friends
 Real estate
 religiously watching Shark Tank
+Republicans
 Road trips
 RV's
 Schooling
