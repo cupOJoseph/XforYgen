@@ -1,3 +1,4 @@
+23andMe
 4chan
 500px
 7/11
@@ -7,8 +8,9 @@ Adobe
 AirBnB
 Amazon
 Apache
-Apple
 App Store
+Apple
+Asana
 Ashley Madison
 Asus
 Beats by Dre
@@ -35,7 +37,7 @@ Craigslist
 del.icio.us
 Dell
 Discord
-Dropbox
+Docker
 Dropbox
 eBay
 Electonic Arts
@@ -43,7 +45,6 @@ ELEKS
 Equifax
 Esquire
 Etsy
-Evernote
 Evernote
 Facebook
 Ferrari
@@ -69,11 +70,9 @@ Hewlett Packard
 HGTV
 Hiking
 Home Depot
+Hopper
 Howard Johnson
-IBM
-Ikea
-Ikea
-Ikea
+Hulu
 Ikea
 Indiegogo
 Instagram
@@ -82,7 +81,6 @@ iPhone
 iTunes
 Jack Daniel's
 Jobs
-Jockey
 Jockey
 Kiwix
 KFC
@@ -118,19 +116,15 @@ Nutella
 NY Times
 Palm Pilots
 Pandora
-Pandora
-Pandora
 Patreon
 Periscope
-Pinterest
 Pinterest
 Pizza Hut
 Podcasts
 Pornhub
 ProtonMail
-Reddit
-Reddit
 Red Hat
+Reddit
 Samsung
 Segways
 Shake Weight
@@ -139,7 +133,6 @@ Shell
 Silk Road
 Skype
 Slack
-Slack
 Snapchat
 SoftServe
 SONY
@@ -147,9 +140,9 @@ SoundCloud
 Soylent
 SpaceX
 Spotify
-Spotify
 Starbucks
 Steam
+Stripe
 Stubhub
 Ted-Ed
 Telegram
@@ -161,11 +154,10 @@ Trello
 Tumblr
 TwitchTV
 Twitter
-Udacity
-Udemy
-Uber
 Uber
 Uber Eats
+Udacity
+Udemy
 Urban Clap
 Urban Dictionary
 Value Village
