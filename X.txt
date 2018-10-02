@@ -35,6 +35,7 @@ Craigslist
 del.icio.us
 Dell
 Discord
+Docomo
 Dropbox
 Dropbox
 eBay
@@ -71,6 +72,7 @@ Hiking
 Home Depot
 Howard Johnson
 IBM
+Idea
 Ikea
 Ikea
 Ikea
