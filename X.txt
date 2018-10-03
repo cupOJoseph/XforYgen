@@ -45,6 +45,7 @@ Coursera
 Craigslist
 del.icio.us
 Dell
+Diaspora*
 Discord
 Dodge
 Dropbox
@@ -132,6 +133,7 @@ MSI
 MSN
 MSNBC
 Munchini
+MySpace
 Napster
 National Geographic
 Netflix
@@ -157,8 +159,10 @@ ProtonMail
 Reddit
 Reddit
 Red Hat
+Romwe
 Sainsbury's
 Samsung
+Shein
 Shpock
 Segways
 Shake Weight
