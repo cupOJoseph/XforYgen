@@ -46,12 +46,14 @@ Chipotle
 Christian Mingle
 CNN
 Coachella
+Compaq
 Coursera
 Craigslist
 del.icio.us
 Dell
 Discord
 Dodge
+Domino's
 Dropbox
 Dropbox
 Duracell
@@ -111,6 +113,7 @@ Internet
 iPhone
 iTunes
 Jack Daniel's
+Jaguar
 Jobs
 Jockey
 Jockey
@@ -119,6 +122,7 @@ Kiwix
 KFC
 KPMG
 Lamborghini
+Land Rover
 Lenovo
 LifesGood
 LinkedIn
@@ -203,6 +207,8 @@ Spotify
 Starbucks
 Steam
 Stubhub
+Swiggy
+Tata Steel
 Tesla
 Ted-Ed
 Telegram
@@ -259,3 +265,4 @@ Zee Entertainment Enterprises Ltd.
 Zee Learn Ltd.
 Zee Media Corporation Ltd.
 Zen Technologies Ltd.
+Zomato
