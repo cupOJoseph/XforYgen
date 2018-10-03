@@ -1,3 +1,4 @@
+
 4chan
 500px
 7/11
@@ -5,11 +6,12 @@ Acer
 Adidas
 Adobe
 AirBnB
+Alphabet
 Amazon
 Apache
+App Store
 Apple
 Apple Watch
-App Store
 Ars Technica
 Ashley Madison
 Asus
@@ -23,30 +25,30 @@ Bitbucket
 BlackBerry
 Blizzard Entertainment
 Blogs
-Boo Berry
 BMW
-Bumble
+Boo Berry
 Buggati
+Bumble
 Cafeteria
 Canadian Tire
 Canon
 Canonical
 Canva
-Chevrolet
-Coca-Cola
-Chick-fil-A
 Chase
+Chevrolet
+Chick-fil-A
 Chipotle
 Christian Mingle
 CNN
 Coachella
+Coca-Cola
 Coursera
 Craigslist
 del.icio.us
 Dell
 Discord
+Disney
 Dodge
-Dropbox
 Dropbox
 Duracell
 eBay
@@ -56,9 +58,9 @@ ELEKS
 Equifax
 Esquire
 Etsy
+Evernote
 Everready
-Evernote
-Evernote
+EVGA
 Facebook
 Ferrari
 Fiverr
@@ -73,11 +75,11 @@ Gitlab
 Godrej
 GoFundMe
 Google
+Google Authenticator
 Google Drive
 Google Fit
 Google Glass
 Google Hangout
-Google Authenticator
 Google Play
 Grindr
 Gucci
@@ -92,9 +94,6 @@ Howard Johnson
 Hulu
 IBM
 Ikea
-Ikea
-Ikea
-Ikea
 Indiegogo
 Instagram
 Internet
@@ -103,16 +102,14 @@ iTunes
 Jack Daniel's
 Jobs
 Jockey
-Jockey
+KFC
 Kickstarter
 Kiwix
-KFC
 KPMG
+L'Oréal
 Lamborghini
 Lenovo
 LinkedIn
-LinkedIn
-L'Oréal
 Lyft
 MasterCard
 Mathematics
@@ -143,29 +140,24 @@ NY Times
 OnePlus
 Palm Pilots
 Pandora
-Pandora
-Pandora
 Patreon
 Periscope
-Pinterest
 Pinterest
 Pizza Hut
 Podcasts
 Pornhub
 ProtonMail
-Reddit
-Reddit
 Red Hat
+Reddit
 Sainsbury's
 Samsung
-Shpock
 Segways
 Shake Weight
 Shazam
 Shell
+Shpock
 Silk Road
 Skype
-Slack
 Slack
 Slashdot
 Snapchat
@@ -177,16 +169,16 @@ Soylent
 SpaceX
 Splash Damage
 Spotify
-Spotify
 Starbucks
 Steam
 Stubhub
-Tesla
 Ted-Ed
 Telegram
 Tesco
+Tesla
 The Boring Company
 The Learning Channel
+The New York Times
 Tidal
 Tinder
 Tor
@@ -195,21 +187,21 @@ Trello
 Tumblr
 TwitchTV
 Twitter
-Udacity
-Udemy
-Uber
 Uber
 Uber Eats
+Udacity
+Udemy
 Urban Clap
 Urban Dictionary
-Volkswagen
 Value Village
 Valve
 Venmo
 Viber
 Victoria's Secret
 Vimeo
+Visa
 Vodafone
+Volkswagen
 Waitrose
 Wal-Mart
 Waze
