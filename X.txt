@@ -14,6 +14,7 @@ Ars Technica
 Ashley Madison
 Asus
 Authy
+Bank of America
 Beats by Dre
 Beme
 Bethesda Games
@@ -23,6 +24,7 @@ Bitbucket
 BlackBerry
 Blizzard Entertainment
 Blogs
+Bluetooth
 Boo Berry
 BMW
 Bumble
@@ -40,6 +42,7 @@ Chipotle
 Christian Mingle
 CNN
 Coachella
+Comedy Central
 Coursera
 Craigslist
 del.icio.us
@@ -77,6 +80,7 @@ Google Drive
 Google Fit
 Google Glass
 Google Hangout
+Google Maps
 Google Authenticator
 Google Play
 Grindr
