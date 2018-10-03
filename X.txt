@@ -34,9 +34,10 @@ Canon
 Canonical
 Canva
 Chevrolet
-Coca-Cola
+Coca-Cola 
+CodePen
 Chick-fil-A
-Chase
+Chase 
 Chipotle
 Christian Mingle
 CNN
@@ -90,6 +91,7 @@ HGTV
 Hiking
 Home Depot
 Howard Johnson
+How Secure Is My Password
 Hulu
 IBM
 Ikea
@@ -220,8 +222,10 @@ Waze
 Wealthfront
 WeWork
 Whatsapp
+Wisebatt
 Xerox
 Xiaomi
+XKCD
 Yahoo Answers
 Yearbook
 Yelp
