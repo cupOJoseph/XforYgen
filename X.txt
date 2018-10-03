@@ -5,6 +5,7 @@ Acer
 Adidas
 Adobe
 AirBnB
+Alexa
 Amazon
 Apache
 Apple
