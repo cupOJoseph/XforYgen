@@ -26,8 +26,8 @@ Burgers
 Buyers
 calligraphy
 Cardboard cutouts of Joe Biden
-Cats
 Cars
+Cats
 Cheese
 Cheesy romantic comedies
 Chinese knock-offs
@@ -35,16 +35,16 @@ Christmas Trees
 Cities
 Classrooms
 Coaches
-Cocktails
 Cockatiels
+Cocktails
 Coders
 College
 Computer Science Students
 Condiments
 Corporate culture
 Cowpokes
-Crowbars
 Criminals
+Crowbars
 Cycling
 Dancing
 Democracts
@@ -53,15 +53,15 @@ Designers
 Dictionary
 Dispensaries
 Doctors
+Dog Walkers
 Dogs
 Dogs that don't bark
 Dogs that won't stop barking
-Dog Walkers
 Donald Trump
 Drug dealers
 Edibles
-encyclopedias
 Elbow licking
+encyclopedias
 ethnic lesbians
 Failing department stores
 failing newspaper companies
@@ -93,8 +93,8 @@ Helicopters
 High school gym teachers
 High school yearbooks
 Hippies
-Honey
 Hipsters
+Honey
 huffing glue
 Hungry child
 Ice cream
@@ -116,14 +116,13 @@ Mansions
 Mathematicians
 Meditation
 Millennials
-Millennials
 Mixed drinks
 Mothers
 Mr. Robot
 Multipurpose event spaces
 Music
-Musicians
 Music festivals
+Musicians
 Novels
 Nurses
 old people that refuse to use computers
@@ -136,19 +135,19 @@ people that attend tech-crunch
 People walking
 people with hemorrhoids
 People with pools
-Prescription pills
 pets
 Photographers
 pirated movies
 Playing Cards
-Priests
 Podcasts
 pools
 Practicing vegans
+Prescription pills
+Priests
+Programmers
 project managers
 Prom dresses
 public bath rooms
-Programmers
 Random Facebook friends
 Real estate
 religiously watching Shark Tank
@@ -156,8 +155,8 @@ Republicans
 Road trips
 Roadmen
 RV's
-Schooling
 School lunches
+Schooling
 Scientists
 Sellers
 Skull Candy 
@@ -201,5 +200,6 @@ watches
 Websites
 Weed
 Wrestling
+young people that hates old people that refuse to use computers
 Youtubers
 Zebras
