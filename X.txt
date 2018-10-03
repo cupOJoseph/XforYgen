@@ -115,6 +115,7 @@ LinkedIn
 L'Oréal
 Lyft
 MasterCard
+Mastodon
 Mathematics
 McDonald's
 Medium
