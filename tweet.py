@@ -8,33 +8,23 @@ def get_api(cfg):
 
 def main():
   # Fill in the values noted in previous step here
+  with open('config.txt') as config_file, open('X.txt') as Xfile, open('Y.txt') as Yfile:
+    keys = config_file.read().splitlines()
+    X = Xfile.read().splitlines()
+    Y = Yfile.read().splitlines()
+    
+    cfg = {
+      "consumer_key"        : keys[0],
+      "consumer_secret"     : keys[1],
+      "access_token"        : keys[2],
+      "access_token_secret" : keys[3]
+      }
+    
+    api = get_api(cfg)
+    tweet = "The next big thing is: "
+    tweet = tweet + random.choice(X) + " but for " + random.choice(Y) + ". #NextBigThing #startupidea"
 
-  keys = [line.strip() for line in open("config.txt")]
-  '''
-  To use, add keys to a config.txt file. each key alone, 1 per line, no quotes or anything
-  '''
-
-
-  cfg = {
-    "consumer_key"        : keys[0],
-    "consumer_secret"     : keys[1],
-    "access_token"        : keys[2],
-    "access_token_secret" : keys[3]
-    }
-  api = get_api(cfg)
-
-  # Open files
-  Xfile = open('X.txt')
-  Yfile = open('Y.txt')
-
-  #create lists from files
-  X = [line.strip() for line in Xfile]
-  Y = [line.strip() for line in Yfile]
-
-  tweet = "The next big thing is: "
-  tweet = tweet + random.choice(X) + " but for " + random.choice(Y) + ". #NextBigThing #startupidea"
-
-  status = api.update_status(status=tweet)
+    status = api.update_status(status=tweet)
 
 
 if __name__ == "__main__":
