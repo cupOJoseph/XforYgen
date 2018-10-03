@@ -44,6 +44,7 @@ Coursera
 Craigslist
 del.icio.us
 Dell
+Digg
 Discord
 Dodge
 Dropbox
@@ -170,6 +171,7 @@ Slack
 Slashdot
 Snapchat
 SoftServe
+Something Awful
 SONY
 SoundCloud
 Souq.com
