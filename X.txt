@@ -88,6 +88,7 @@ Hewlett Packard
 HGTV
 Hiking
 Home Depot
+Honda
 Howard Johnson
 Hulu
 IBM
@@ -121,7 +122,10 @@ Medium
 Meizu
 Micromax
 Microsoft
+Microsoft Access
+Microsoft Excel
 Microsoft Outlook
+Microsoft Word
 Mike Tyson's Punch-Out
 Minecraft
 Mitsubishi
