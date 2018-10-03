@@ -46,6 +46,7 @@ del.icio.us
 Dell
 Discord
 Dodge
+DoorDash
 Dropbox
 Dropbox
 Duracell
@@ -72,6 +73,7 @@ GitHub
 Gitlab
 Godrej
 GoFundMe
+GoPro
 Google
 Google Drive
 Google Fit
@@ -80,6 +82,7 @@ Google Hangout
 Google Authenticator
 Google Play
 Grindr
+Groupon
 Gucci
 Hackernews
 Hard Bass
@@ -89,6 +92,7 @@ HGTV
 Hiking
 Home Depot
 Howard Johnson
+Houzz
 Hulu
 IBM
 Ikea
@@ -96,6 +100,7 @@ Ikea
 Ikea
 Ikea
 Indiegogo
+Instacart
 Instagram
 Internet
 iPhone
@@ -140,6 +145,7 @@ Nintendo
 Nokia
 Nutella
 NY Times
+Oculus Rift
 OnePlus
 Palm Pilots
 Pandora
@@ -185,6 +191,7 @@ Tesla
 Ted-Ed
 Telegram
 Tesco
+Tesla
 The Boring Company
 The Learning Channel
 Tidal
@@ -216,11 +223,13 @@ Waze
 Wealthfront
 WeWork
 Whatsapp
+XPRIZE
 Xerox
 Xiaomi
 Yahoo Answers
 Yearbook
 Yelp
 YouTube
+Zappos
 ZipCar
 Zume
