@@ -4,6 +4,7 @@
 Acer
 Adidas
 Adobe
+Agile
 AirBnB
 Amazon
 Apache
