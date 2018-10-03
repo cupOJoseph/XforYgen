@@ -28,6 +28,7 @@ Boo Berry
 BMW
 Bumble
 Buggati
+Burger King
 Cafeteria
 Canadian Tire
 Canon
@@ -46,6 +47,7 @@ Craigslist
 del.icio.us
 Dell
 Discord
+Digital Ocean
 Dodge
 Dropbox
 Dropbox
@@ -184,6 +186,8 @@ Spotify
 Starbucks
 Steam
 Stubhub
+Subway
+Super Mario Bros
 Tesla
 Ted-Ed
 Telegram
