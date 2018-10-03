@@ -12,6 +12,7 @@ Apache
 Apple
 Apple Watch
 App Store
+Ars Technica
 Ashley Madison
 Asus
 Authy
@@ -25,6 +26,7 @@ Bitbucket
 BlackBerry
 Blizzard Entertainment
 Blogs
+Boo Berry
 BMW
 Bumble
 Buggati
@@ -35,6 +37,7 @@ Canonical
 Canva
 Chevrolet
 Coca-Cola
+Chick-fil-A
 Chase
 Chipotle
 Christian Mingle
@@ -93,7 +96,7 @@ HGTV
 Hiking
 Home Depot
 Howard Johnson
-hulu
+Hulu
 IBM
 Ikea
 Ikea
@@ -136,6 +139,7 @@ Mojang
 Motorola
 MSI
 MSN
+MSNBC
 Munchini
 Napster
 National Geographic
@@ -175,6 +179,7 @@ Silk Road
 Skype
 Slack
 Slack
+Slashdot
 Snapchat
 Snapdeal
 SoftServe
