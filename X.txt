@@ -1,3 +1,4 @@
+23andMe
 4chan
 500px
 7/11
@@ -8,10 +9,17 @@ AirBnB
 Amazon
 Apache
 Apple
+Appo
 App Store
+Appirio
+Apple Watch
+App Store
+Ars Technica
 Ashley Madison
 Asus
+Authy
 Beats by Dre
+Beme
 Bethesda Games
 Betterment
 Bing
@@ -19,13 +27,20 @@ Bitbucket
 BlackBerry
 Blizzard Entertainment
 Blogs
+Boo Berry
+BMW
 Bumble
+Buggati
 Cafeteria
 Canadian Tire
 Canon
 Canonical
 Canva
-Coca-Cola
+Chevrolet
+Coca-Cola 
+CodePen
+Chick-fil-A
+Chase 
 Chipotle
 Christian Mingle
 CNN
@@ -35,15 +50,19 @@ Craigslist
 del.icio.us
 Dell
 Discord
+Dodge
 Dropbox
 Dropbox
+Duracell
 eBay
+Edx
 Electonic Arts
 ELEKS
 EMS
 Equifax
 Esquire
 Etsy
+Everready
 Evernote
 Evernote
 Facebook
@@ -57,13 +76,18 @@ Fox News
 Fruit Loops
 GitHub
 Gitlab
+Godrej
+GoFundMe
 Google
 Google Drive
 Google Fit
 Google Glass
 Google Hangout
+Google Authenticator
+Google Play
 Grindr
 Gucci
+Hackernews
 Hard Bass
 Harvard
 Hewlett Packard
@@ -71,6 +95,8 @@ HGTV
 Hiking
 Home Depot
 Howard Johnson
+How Secure Is My Password
+Hulu
 IBM
 Ikea
 Ikea
@@ -85,16 +111,20 @@ Jack Daniel's
 Jobs
 Jockey
 Jockey
+Kickstarter
 Kiwix
 KFC
 KPMG
+Lamborghini
 Lenovo
+LifesGood
 LinkedIn
 LinkedIn
 L'Oréal
 Lyft
 MasterCard
 Mathematics
+Mazza
 McDonald's
 Medium
 Meizu
@@ -108,6 +138,9 @@ Mojang
 Motorola
 MSI
 MSN
+Music
+MSNBC
+Munchini
 Napster
 National Geographic
 Netflix
@@ -123,43 +156,58 @@ Pandora
 Pandora
 Pandora
 Patreon
+Pepsi
 Periscope
+Photoshop
 Pinterest
 Pinterest
 Pizza Hut
 Podcasts
 Pornhub
 ProtonMail
+Python
 Reddit
 Reddit
 Red Hat
 Robots
+Sainsbury's
 Samsung
+Shpock
 Segways
 Shake Weight
 Shazam
 Shell
+Shopify
 Silk Road
+Siri
 Skype
 Slack
 Slack
+Slice
+Slashdot
 Snapchat
 SoftServe
 SONY
 SoundCloud
+Souq.com
 Soylent
 SpaceX
+Splash Damage
 Spotify
 Spotify
 Starbucks
 Steam
 Stubhub
+Tesla
 Ted-Ed
 Telegram
+Tesco
 The Boring Company
 The Learning Channel
 Tidal
 Tinder
+Tor
+Toyota
 Trello
 Tumblr
 TwitchTV
@@ -169,25 +217,37 @@ Udemy
 Uber
 Uber
 Uber Eats
+Uniqlo
 Urban Clap
 Urban Dictionary
+Volkswagen
 Value Village
 Valve
 Venmo
 Viber
 Victoria's Secret
+Video games
 Vimeo
 Vodafone
+Waitrose
 Wal-Mart
 Waze
 Wealthfront
 WeWork
 Whatsapp
+Wisebatt
 Xerox
 Xiaomi
+XKCD
 Yahoo Answers
 Yearbook
 Yelp
 YouTube
 ZipCar
 Zume
+Zandu Realty Ltd.
+Zeal Aqua Ltd.
+Zee Entertainment Enterprises Ltd.
+Zee Learn Ltd.
+Zee Media Corporation Ltd.
+Zen Technologies Ltd.
