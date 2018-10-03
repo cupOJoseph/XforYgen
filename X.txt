@@ -47,7 +47,6 @@ Dell
 Discord
 Dodge
 Dropbox
-Dropbox
 Duracell
 eBay
 Edx
@@ -57,7 +56,6 @@ Equifax
 Esquire
 Etsy
 Everready
-Evernote
 Evernote
 Facebook
 Ferrari
@@ -92,9 +90,6 @@ Howard Johnson
 Hulu
 IBM
 Ikea
-Ikea
-Ikea
-Ikea
 Indiegogo
 Instagram
 Internet
@@ -110,7 +105,6 @@ KFC
 KPMG
 Lamborghini
 Lenovo
-LinkedIn
 LinkedIn
 L'Oréal
 Lyft
@@ -143,11 +137,8 @@ NY Times
 OnePlus
 Palm Pilots
 Pandora
-Pandora
-Pandora
 Patreon
 Periscope
-Pinterest
 Pinterest
 Pizza Hut
 Podcasts
@@ -181,6 +172,7 @@ Spotify
 Starbucks
 Steam
 Stubhub
+Tableau
 Tesla
 Ted-Ed
 Telegram
