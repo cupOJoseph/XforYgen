@@ -132,6 +132,7 @@ Mojang
 Motorola
 MSI
 MSN
+Music
 MSNBC
 Munchini
 Napster
@@ -150,12 +151,14 @@ Pandora
 Pandora
 Patreon
 Periscope
+Photoshop
 Pinterest
 Pinterest
 Pizza Hut
 Podcasts
 Pornhub
 ProtonMail
+Python
 Reddit
 Reddit
 Red Hat
@@ -214,6 +217,7 @@ Valve
 Venmo
 Viber
 Victoria's Secret
+Video games
 Vimeo
 Vodafone
 Waitrose
