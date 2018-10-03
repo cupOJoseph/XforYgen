@@ -28,6 +28,7 @@ BlackBerry
 Blizzard Entertainment
 Blogs
 Boo Berry
+Bose
 BMW
 Bumble
 Buggati
@@ -78,6 +79,7 @@ GitHub
 Gitlab
 Godrej
 GoFundMe
+Good Old Games
 Google
 Google Drive
 Google Fit
@@ -86,6 +88,7 @@ Google Hangout
 Google Authenticator
 Google Play
 Grindr
+Grundig
 Gucci
 Hackernews
 Hard Bass
@@ -123,6 +126,7 @@ LinkedIn
 L'Oréal
 Lyft
 MasterCard
+Mastodon
 Mathematics
 Mazza
 McDonald's
@@ -144,6 +148,7 @@ Munchini
 Napster
 National Geographic
 Netflix
+Nestlé
 Nike
 Nikon
 Nintendo
@@ -217,7 +222,9 @@ Udemy
 Uber
 Uber
 Uber Eats
+Unilever
 Uniqlo
+University
 Urban Clap
 Urban Dictionary
 Volkswagen
@@ -236,6 +243,7 @@ Wealthfront
 WeWork
 Whatsapp
 Wisebatt
+Wiskas
 Xerox
 Xiaomi
 XKCD
