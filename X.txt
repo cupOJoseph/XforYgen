@@ -79,7 +79,6 @@ Google Fit
 Google Glass
 Google Hangout
 Google Authenticator
-Google Maps
 Google Play
 Grindr
 Gucci
