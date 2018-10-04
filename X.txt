@@ -51,6 +51,7 @@ Coursera
 Craigslist
 del.icio.us
 Dell
+Diaspora
 Discord
 Dodge
 Domino's
