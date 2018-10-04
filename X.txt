@@ -129,6 +129,7 @@ Lenovo
 LifesGood
 LinkedIn
 LinkedIn
+Linux
 L'Oréal
 Lyft
 MasterCard
@@ -250,6 +251,7 @@ Waze
 Wealthfront
 WeWork
 Whatsapp
+Wikipedia
 Wisebatt
 Wiskas
 Xerox
