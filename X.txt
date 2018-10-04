@@ -60,6 +60,7 @@ Duracell
 eBay
 Edx
 Electonic Arts
+Elementum
 ELEKS
 EMS
 Equifax
@@ -162,6 +163,7 @@ Nokia
 Nutella
 NY Times
 OnePlus
+Oracle
 Palm Pilots
 Pandora
 Pandora
