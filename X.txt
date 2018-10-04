@@ -88,6 +88,7 @@ Google Fit
 Google Glass
 Google Hangout
 Google Authenticator
+Google Map
 Google Play
 Grindr
 Grundig
