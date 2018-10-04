@@ -112,6 +112,7 @@ Ikea
 Indiegogo
 Instagram
 Internet
+IoT
 iPhone
 iTunes
 Jack Daniel's
@@ -139,6 +140,7 @@ McDonald's
 Medium
 Meizu
 Micromax
+Microcontroller
 Microsoft
 Microsoft Outlook
 Mike Tyson's Punch-Out
