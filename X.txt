@@ -247,6 +247,7 @@ Toyota
 Trello
 TripAdvisor
 Tumblr
+Twilio
 TwitchTV
 Twitter
 Udacity
