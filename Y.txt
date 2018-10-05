@@ -6,6 +6,7 @@ Agile
 Airplanes
 amateur DJs
 antique collectors
+ants
 babies
 Backpacking
 Barbeques
@@ -37,6 +38,7 @@ Chinese knock-offs
 Christmas Trees
 Cities
 Classrooms
+Climbers
 Coaches
 Cocktails
 Cockatiels
@@ -98,6 +100,7 @@ Hedge funds
 Helicopters
 High school gym teachers
 High school yearbooks
+Hikers
 Hippies
 Honey
 Hipsters
@@ -150,6 +153,7 @@ pirated movies
 Playing Cards
 Priests
 Podcasts
+Pokemon
 pools
 Practicing vegans
 project managers
@@ -218,3 +222,4 @@ Wild Animals
 Wrestling
 Youtubers
 Zebras
+Zoos
