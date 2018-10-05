@@ -1,5 +1,6 @@
 23andMe
 4chan
+2Chan
 500px
 7/11
 Acer
@@ -8,6 +9,7 @@ Adobe
 Adobe Photoshop
 AirBnB
 Amazon
+American Tourister
 Apache
 App Store
 Apple
@@ -30,22 +32,28 @@ Beme
 Bethesda Games
 Betterment
 Bing
+BigBasket
 Bong
 Bitbucket
 BlackBerry
 Blizzard Entertainment
+Blockchain
 Blogs
 Boo Berry
+Boost
 Bose
 BMW
 Bumble
 Buggati
+Burger King
 Cafeteria
 Canadian Tire
 Canon
 Canonical
 Canva
+Cello
 Chevrolet
+Classmate
 Coca-Cola 
 CodePen
 Chick-fil-A
@@ -63,6 +71,7 @@ Credit Card
 del.icio.us
 Dell
 Discord
+Digital Ocean
 Dodge
 Domino's
 Dropbox
@@ -72,6 +81,7 @@ Duracell
 eBay
 Edx
 Electonic Arts
+Elementum
 ELEKS
 EMS
 Equifax
@@ -86,6 +96,7 @@ Fiverr
 Flickr
 Flipkart
 Food
+FoodPanda
 Forbes
 Fox News
 Fruit Loops
@@ -97,10 +108,12 @@ GoFundMe
 Good Old Games
 Google
 Google Drive
+Google Earth
 Google Fit
 Google Glass
 Google Hangout
 Google Authenticator
+Google Map
 Google Play
 Grindr
 Grundig
@@ -121,12 +134,10 @@ Hulu
 Hyundai
 IBM
 Ikea
-Ikea
-Ikea
-Ikea
 Indiegogo
 Instagram
 Internet
+IoT
 iPhone
 iTunes
 iPad
@@ -134,7 +145,6 @@ iPod
 Jack Daniel's
 Jaguar
 Jobs
-Jockey
 Jockey
 KitchenAid
 Kickstarter
@@ -159,6 +169,7 @@ McDonald's
 Medium
 Meizu
 Micromax
+Microcontroller
 Microsoft
 Microsoft Outlook
 Mike Tyson's Punch-Out
@@ -173,6 +184,7 @@ MSNBC
 Munchini
 Napster
 National Geographic
+Natraj
 Netflix
 Nestlé
 Nike
@@ -183,16 +195,14 @@ Nudie Jeans
 Nutella
 NY Times
 OnePlus
+Oracle
 Palm Pilots
-Pandora
-Pandora
 Pandora
 Patreon
 Pepsi
 Pokemon
 Periscope
 Photoshop
-Pinterest
 Pinterest
 Pizza Hut
 Play Store
@@ -203,9 +213,9 @@ ProtonMail
 Quora
 Python
 Reddit
-Reddit
 Red Hat
 Robots
+S7
 Sainsbury's
 Samsung
 Shpock
@@ -219,7 +229,6 @@ Sims
 Siri
 Skype
 Slack
-Slack
 Slice
 Slashdot
 Snapchat
@@ -230,16 +239,19 @@ SoundCloud
 Souq.com
 Soylent
 SpaceX
+SparX
 Splash Damage
-Spotify
 Spotify
 Starbucks
 Star Wars
 Steam
 Stubhub
+Subway
+Super Mario Bros
 Taco Bell
 Target
 Swiggy
+Taco Bell
 Tata Steel
 Tesla
 Ted-Ed
@@ -288,6 +300,7 @@ Whatsapp
 Wikipedia
 Wisebatt
 Wiskas
+Wildcraft
 Xerox
 Xiaomi
 XKCD
@@ -297,6 +310,14 @@ Yearbook
 Yelp
 YouTube
 ZipCar
+Zume
+Zandu Realty Ltd.
+Zeal Aqua Ltd.
+Zee Entertainment Enterprises Ltd.
+Zee Learn Ltd.
+Zee Media Corporation Ltd.
+Zen Technologies Ltd.
+Zomato
 Zomato
 Zoom Car
 Zume

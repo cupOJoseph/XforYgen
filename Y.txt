@@ -4,20 +4,26 @@ Adjunct professors
 Adults
 Agile
 Airplanes
+Audio Jungle
 amateur DJs
 antique collectors
+Auditor
 Apples
+babies
 Ants
 Angry Bosses
 Babies
 Backpacking
 Barbeques
+Barber
 Bars
+Bags
 Bat Mitzvah money
 Bees
 Bedtime stories
 Bikers
 Binge Watchers
+Binman
 Biologists
 Blockbuster
 Bloggers
@@ -26,6 +32,7 @@ Blood
 Board gamers
 Board games
 boats
+Books
 Bottles
 Boxers
 Burgers
@@ -34,6 +41,7 @@ calligraphy
 Canadians
 Cardboard cutouts of Joe Biden
 Cars
+Chairs
 Catapults
 Cats
 Cheese
@@ -75,6 +83,7 @@ Donald Trump
 Dragons
 Drug dealers
 Drunk people
+Elephants
 Edibles
 Elbow licking
 EMS
@@ -83,6 +92,7 @@ Engineers
 ethnic lesbians
 Failing department stores
 failing newspaper companies
+Fans
 Fathers
 FBI Agents
 Flowers
@@ -131,6 +141,8 @@ jocks
 Joggers
 Jungle juice
 keychains
+Kids
+Laptops
 Lawyers
 Learners
 Lenses
@@ -140,6 +152,7 @@ Magicians
 Magnifying Glasses
 Managers
 Mansions
+Marathoners
 Mathematicians
 Meditation
 Millennials
@@ -160,6 +173,7 @@ Orthodontists
 Pajamas
 Parents
 Partners
+Pens
 people that attend tech-crunch
 People walking
 People who lick food to claim it
@@ -175,6 +189,7 @@ Pied Pipers
 Podcasts
 Pokemon
 pools
+Poor people
 Practicing vegans
 project managers
 Prom dresses
@@ -189,6 +204,7 @@ Retired people
 Road trips
 Roadmen
 Rockstars
+Runners
 RV's
 Schooling
 School lunches
@@ -206,6 +222,8 @@ stoners
 Streamers
 students
 Students orgs
+Terrible life hacks
+Unethical life hacks
 Swimming
 Swimmers
 Tigers
@@ -221,6 +239,7 @@ Thrift stores
 Tiny homes
 Toddlers
 toilet paper
+Toilet
 Top ten of your high school
 tote bags
 Townhomes
@@ -245,7 +264,17 @@ watches
 Websites
 Weed
 Wild Animals
+Wires
 Wrestling
 Youtubers
 Zebras
+Koalas
+Indians
+Sweets
+Spices
+Phones
+Wallpaper
+Television
+Linear Algebra Book
+LAN Cable
 Zoos
