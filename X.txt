@@ -232,6 +232,7 @@ Splash Damage
 Spotify
 Spotify
 Starbucks
+Star Wars
 Steam
 Stubhub
 Taco Bell
@@ -295,5 +296,5 @@ YouTube
 ZipCar
 Zomato
 Zoom Car
-Zume
 Zomato
+Zume
