@@ -89,6 +89,7 @@ Disney
 Docker
 Digital Ocean
 Dodge
+DoorDash
 Driverless Cars 
 Domino's
 Dropbox
@@ -123,6 +124,7 @@ GitHub
 Gitlab
 Godrej
 GoFundMe
+GoPro
 Good Old Games
 Google
 Google Authenticator
@@ -136,6 +138,7 @@ Google Authenticator
 Google Map
 Google Play
 Grindr
+Groupon
 Grundig
 Gucci
 Hackernews
@@ -150,12 +153,14 @@ Home Depot
 Honda
 Hospitals
 Howard Johnson
+Houzz
 How Secure Is My Password
 Hulu
 Hyundai
 IBM
 Ikea
 Indiegogo
+Instacart
 Instagram
 Internet
 IoT
@@ -224,6 +229,7 @@ Nokia
 Nudie Jeans
 Nutella
 NY Times
+Oculus Rift
 OnePlus
 Oracle
 Palm Pilots
@@ -342,6 +348,7 @@ Wealthfront
 WeWork
 Wireless Power
 Whatsapp
+XPRIZE
 Wikipedia
 Wisebatt
 Wiskas
@@ -354,6 +361,7 @@ Yandex
 Yearbook
 Yelp
 YouTube
+Zappos
 ZipCar
 Zume
 Zandu Realty Ltd.
