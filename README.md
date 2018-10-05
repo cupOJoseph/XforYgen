@@ -97,3 +97,13 @@ The next big thing is: Soylent for pirated movies
 The next big thing is: Yearbook for illegal minecraft servers
 
 The next big thing is: Pinterest for students
+
+The next big thing is: Bonsoy Milk for Vegans
+
+The next big thing is: Bitcoin for Ants
+
+The next big thing is: X of Y
+
+The next big thing is: Y of X
+
+The next big thing is: Amazon Z to A
