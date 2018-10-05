@@ -36,6 +36,7 @@ Bong
 Bitbucket
 BlackBerry
 Blizzard Entertainment
+Blockchain
 Blogs
 Boo Berry
 Bose
@@ -127,9 +128,6 @@ Hulu
 Hyundai
 IBM
 Ikea
-Ikea
-Ikea
-Ikea
 Indiegogo
 Instagram
 Internet
@@ -141,7 +139,6 @@ iPod
 Jack Daniel's
 Jaguar
 Jobs
-Jockey
 Jockey
 KitchenAid
 Kickstarter
@@ -194,14 +191,11 @@ NY Times
 OnePlus
 Palm Pilots
 Pandora
-Pandora
-Pandora
 Patreon
 Pepsi
 Pokemon
 Periscope
 Photoshop
-Pinterest
 Pinterest
 Pizza Hut
 Play Store
@@ -211,7 +205,6 @@ Prada
 ProtonMail
 Quora
 Python
-Reddit
 Reddit
 Red Hat
 Robots
@@ -229,7 +222,6 @@ Sims
 Siri
 Skype
 Slack
-Slack
 Slice
 Slashdot
 Snapchat
@@ -242,7 +234,6 @@ Soylent
 SpaceX
 SparX
 Splash Damage
-Spotify
 Spotify
 Starbucks
 Star Wars
