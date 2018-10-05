@@ -29,6 +29,7 @@ Ashley Madison
 Aspirin
 Asus
 Authy
+Bank of America
 Bash.org
 Beats by Dre
 Beme
@@ -42,6 +43,7 @@ BlackBerry
 Blizzard Entertainment
 Blockchain
 Blogs
+Bluetooth
 Boo Berry
 Boost
 Bose
@@ -66,6 +68,7 @@ Christian Mingle
 Clothes
 CNN
 Coachella
+Comedy Central
 Compaq
 Couchsurfing
 Coursera
@@ -119,6 +122,7 @@ Google Earth
 Google Fit
 Google Glass
 Google Hangout
+Google Maps
 Google Authenticator
 Google Map
 Google Play
