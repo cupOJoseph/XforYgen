@@ -45,6 +45,7 @@ Bose
 BMW
 Bumble
 Buggati
+Burger King
 Cafeteria
 Canadian Tire
 Canon
@@ -70,6 +71,7 @@ Credit Card
 del.icio.us
 Dell
 Discord
+Digital Ocean
 Dodge
 Domino's
 Dropbox
@@ -243,6 +245,8 @@ Starbucks
 Star Wars
 Steam
 Stubhub
+Subway
+Super Mario Bros
 Taco Bell
 Target
 Swiggy
