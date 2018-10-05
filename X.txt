@@ -72,6 +72,7 @@ Craigslist
 Credit Card
 del.icio.us
 Dell
+Diaspora*
 Discord
 Digital Ocean
 Dodge
@@ -186,6 +187,7 @@ MSN
 Music
 MSNBC
 Munchini
+MySpace
 Napster
 National Geographic
 Natraj
@@ -218,10 +220,12 @@ Quora
 Python
 Reddit
 Red Hat
+Romwe
 Robots
 S7
 Sainsbury's
 Samsung
+Shein
 Shpock
 Segways
 Shake Weight
