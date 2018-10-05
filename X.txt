@@ -5,9 +5,15 @@
 Acer
 Adidas
 Adobe
+Adobe Photoshop
 AirBnB
 Amazon
 Apache
+App Store
+Apple
+Ashley Madison
+Asus
+Autodesk
 Apple
 Appo
 App Store
@@ -56,6 +62,7 @@ Dodge
 Domino's
 Dropbox
 Dropbox
+EBay
 Duracell
 eBay
 Edx
@@ -77,6 +84,7 @@ Food
 Forbes
 Fox News
 Fruit Loops
+Fujifilms
 GitHub
 Gitlab
 Godrej
@@ -119,6 +127,7 @@ Jaguar
 Jobs
 Jockey
 Jockey
+KitchenAid
 Kickstarter
 Kiwix
 KFC
@@ -126,6 +135,7 @@ KPMG
 Lamborghini
 Land Rover
 Lenovo
+Lime
 LifesGood
 LinkedIn
 LinkedIn
@@ -175,7 +185,9 @@ Pinterest
 Pizza Hut
 Podcasts
 Pornhub
+Prada
 ProtonMail
+Quora
 Python
 Reddit
 Reddit
@@ -197,6 +209,7 @@ Slack
 Slice
 Slashdot
 Snapchat
+Snapdeal
 SoftServe
 SONY
 SoundCloud
@@ -209,6 +222,8 @@ Spotify
 Starbucks
 Steam
 Stubhub
+Taco Bell
+Target
 Swiggy
 Tata Steel
 Tesla
@@ -243,6 +258,7 @@ Viber
 Victoria's Secret
 Video games
 Vimeo
+Vine
 Vodafone
 Waitrose
 Wal-Mart
@@ -260,6 +276,8 @@ Yearbook
 Yelp
 YouTube
 ZipCar
+Zomato
+Zoom Car
 Zume
 Zandu Realty Ltd.
 Zeal Aqua Ltd.
