@@ -147,6 +147,7 @@ HGTV
 Hiking
 Hooli
 Home Depot
+Honda
 Hospitals
 Howard Johnson
 How Secure Is My Password
@@ -195,7 +196,10 @@ Meizu
 Micromax
 Microcontroller
 Microsoft
+Microsoft Access
+Microsoft Excel
 Microsoft Outlook
+Microsoft Word
 Mike Tyson's Punch-Out
 Minecraft
 Mitsubishi
