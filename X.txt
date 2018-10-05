@@ -92,6 +92,7 @@ Dell
 Digg
 Diaspora*
 Discord
+Docomo
 Disney
 Docker
 Digital Ocean
@@ -172,6 +173,7 @@ How Secure Is My Password
 Hulu
 Hyundai
 IBM
+Idea
 Ikea
 Ikea
 Ikea
