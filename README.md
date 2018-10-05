@@ -103,3 +103,5 @@ The next big thing is: Bonsoy Milk for Vegans
 The next big thing is: Bitcoin for Ants
 
 The next big thing is: X of Y
+
+The next big thing is: Y of X
