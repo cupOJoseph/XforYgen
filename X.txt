@@ -73,6 +73,7 @@ Craigslist
 Credit Card
 del.icio.us
 Dell
+Digg
 Diaspora*
 Discord
 Docker
@@ -244,6 +245,7 @@ Slashdot
 Snapchat
 Snapdeal
 SoftServe
+Something Awful
 SONY
 SoundCloud
 Souq.com
