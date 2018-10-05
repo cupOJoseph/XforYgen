@@ -1,8 +1,10 @@
+3D Printing
 23andMe
 4chan
 2Chan
 500px
 7/11
+Artificial Intelligence
 Acer
 Adidas
 Adobe
@@ -73,6 +75,7 @@ Dell
 Discord
 Digital Ocean
 Dodge
+Driverless Cars 
 Domino's
 Dropbox
 Dropbox
@@ -175,6 +178,7 @@ Microsoft Outlook
 Mike Tyson's Punch-Out
 Minecraft
 Mitsubishi
+Mobile Payments
 Mojang
 Motorola
 MSI
@@ -296,6 +300,7 @@ Wal-Mart
 Waze
 Wealthfront
 WeWork
+Wireless Power
 Whatsapp
 Wikipedia
 Wisebatt
