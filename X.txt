@@ -4,12 +4,14 @@
 2Chan
 500px
 7/11
+AADHAAR
 Artificial Intelligence
 Acer
 Adidas
 Adobe
 Adobe Photoshop
 AirBnB
+Airtel
 Aliexpress
 Alexa
 Alphabet
@@ -31,6 +33,7 @@ Ashley Madison
 Aspirin
 Asus
 Authy
+Bandhan Bank
 Bank of America
 Bash.org
 Beats by Dre
@@ -119,6 +122,7 @@ Fiverr
 Flex Seal
 Flickr
 Flipkart
+Flipkart
 Food
 FoodPanda
 Forbes
@@ -147,10 +151,14 @@ Grindr
 Groupon
 Grundig
 Gucci
+HackerEarth
 Hackernews
+HackerRank
+Hacktoberfest
 Happn
 Hard Bass
 Harvard
+HDFC Bank
 Hewlett Packard
 HGTV
 Hiking
@@ -165,6 +173,11 @@ Hulu
 Hyundai
 IBM
 Ikea
+Ikea
+Ikea
+Ikea
+IMDb
+India
 Indiegogo
 Instacart
 Instagram
@@ -176,6 +189,7 @@ iTunes
 iPad
 iPod
 Jack Daniel's
+Jio
 Jaguar
 Jobs
 Jockey
@@ -238,6 +252,7 @@ Nutella
 NY Times
 Oculus Rift
 OnePlus
+Oyo Rooms
 Oracle
 Palm Pilots
 Pandora
@@ -255,6 +270,7 @@ Play Store
 Podcasts
 Polaroid
 Pornhub
+PrimeVideos
 Prada
 ProtonMail
 Red Hat
@@ -324,6 +340,7 @@ Tinder
 Tor
 Toyota
 Trello
+Trial Netflix
 TripAdvisor
 Tumblr
 Twilio
@@ -369,6 +386,7 @@ Wiskas
 Wildcraft
 Xerox
 Xiaomi
+Xiaomi Poco F1
 XKCD
 Yahoo Answers
 Yandex
