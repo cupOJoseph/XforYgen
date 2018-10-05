@@ -5,9 +5,16 @@
 Acer
 Adidas
 Adobe
+Adobe Photoshop
 AirBnB
 Amazon
+American Tourister
 Apache
+App Store
+Apple
+Ashley Madison
+Asus
+Autodesk
 Apple
 Appo
 App Store
@@ -16,6 +23,7 @@ Apple Watch
 App Store
 Ars Technica
 Ashley Madison
+Aspirin
 Asus
 Authy
 Beats by Dre
@@ -23,6 +31,8 @@ Beme
 Bethesda Games
 Betterment
 Bing
+BigBasket
+Bong
 Bitbucket
 BlackBerry
 Blizzard Entertainment
@@ -38,24 +48,31 @@ Canadian Tire
 Canon
 Canonical
 Canva
+Cello
 Chevrolet
+Classmate
 Coca-Cola 
 CodePen
 Chick-fil-A
 Chase 
 Chipotle
 Christian Mingle
+Clothes
 CNN
 Coachella
 Compaq
+Couchsurfing
 Coursera
 Craigslist
+Credit Card
 del.icio.us
 Dell
 Discord
 Dodge
 Domino's
 Dropbox
+Dropbox
+EBay
 Duracell
 eBay
 Edx
@@ -74,9 +91,11 @@ Fiverr
 Flickr
 Flipkart
 Food
+FoodPanda
 Forbes
 Fox News
 Fruit Loops
+Fujifilms
 GitHub
 Gitlab
 Godrej
@@ -88,6 +107,7 @@ Google Fit
 Google Glass
 Google Hangout
 Google Authenticator
+Google Map
 Google Play
 Grindr
 Grundig
@@ -101,20 +121,26 @@ HGTV
 Hiking
 Hooli
 Home Depot
+Hospitals
 Howard Johnson
 How Secure Is My Password
 Hulu
+Hyundai
 IBM
 Ikea
 Indiegogo
 Instagram
 Internet
+IoT
 iPhone
 iTunes
+iPad
+iPod
 Jack Daniel's
 Jaguar
 Jobs
 Jockey
+KitchenAid
 Kickstarter
 Kiwix
 KFC
@@ -122,9 +148,11 @@ KPMG
 Lamborghini
 Land Rover
 Lenovo
+Lime
 LifesGood
 LinkedIn
 LinkedIn
+Linux
 L'Oréal
 Lyft
 MasterCard
@@ -135,6 +163,7 @@ McDonald's
 Medium
 Meizu
 Micromax
+Microcontroller
 Microsoft
 Microsoft Outlook
 Mike Tyson's Punch-Out
@@ -149,12 +178,14 @@ MSNBC
 Munchini
 Napster
 National Geographic
+Natraj
 Netflix
 Nestlé
 Nike
 Nikon
 Nintendo
 Nokia
+Nudie Jeans
 Nutella
 NY Times
 OnePlus
@@ -162,17 +193,22 @@ Palm Pilots
 Pandora
 Patreon
 Pepsi
+Pokemon
 Periscope
 Photoshop
 Pinterest
 Pizza Hut
+Play Store
 Podcasts
 Pornhub
+Prada
 ProtonMail
+Quora
 Python
 Reddit
 Red Hat
 Robots
+S7
 Sainsbury's
 Samsung
 Shpock
@@ -182,24 +218,31 @@ Shazam
 Shell
 Shopify
 Silk Road
+Sims
 Siri
 Skype
 Slack
 Slice
 Slashdot
 Snapchat
+Snapdeal
 SoftServe
 SONY
 SoundCloud
 Souq.com
 Soylent
 SpaceX
+SparX
 Splash Damage
 Spotify
 Starbucks
+Star Wars
 Steam
 Stubhub
+Taco Bell
+Target
 Swiggy
+Taco Bell
 Tata Steel
 Tesla
 Ted-Ed
@@ -212,7 +255,9 @@ Tinder
 Tor
 Toyota
 Trello
+TripAdvisor
 Tumblr
+Twilio
 TwitchTV
 Twitter
 Udacity
@@ -220,11 +265,13 @@ Udemy
 Uber
 Uber
 Uber Eats
+Under Armour
 Unilever
 Uniqlo
 University
 Urban Clap
 Urban Dictionary
+Venum
 Volkswagen
 Value Village
 Valve
@@ -233,6 +280,7 @@ Viber
 Victoria's Secret
 Video games
 Vimeo
+Vine
 Vodafone
 Waitrose
 Wal-Mart
@@ -240,21 +288,19 @@ Waze
 Wealthfront
 WeWork
 Whatsapp
+Wikipedia
 Wisebatt
 Wiskas
+Wildcraft
 Xerox
 Xiaomi
 XKCD
 Yahoo Answers
+Yandex
 Yearbook
 Yelp
 YouTube
 ZipCar
-Zume
-Zandu Realty Ltd.
-Zeal Aqua Ltd.
-Zee Entertainment Enterprises Ltd.
-Zee Learn Ltd.
-Zee Media Corporation Ltd.
-Zen Technologies Ltd.
 Zomato
+Zoom Car
+Zume
