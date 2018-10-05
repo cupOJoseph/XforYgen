@@ -22,6 +22,7 @@ Apple Watch
 App Store
 Ars Technica
 Ashley Madison
+Aspirin
 Asus
 Authy
 Beats by Dre
@@ -208,6 +209,7 @@ Shazam
 Shell
 Shopify
 Silk Road
+Sims
 Siri
 Skype
 Slack
@@ -243,6 +245,7 @@ Tinder
 Tor
 Toyota
 Trello
+TripAdvisor
 Tumblr
 TwitchTV
 Twitter
