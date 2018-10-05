@@ -1,5 +1,6 @@
 23andMe
 4chan
+2Chan
 500px
 7/11
 Acer
@@ -304,6 +305,14 @@ Yearbook
 Yelp
 YouTube
 ZipCar
+Zume
+Zandu Realty Ltd.
+Zeal Aqua Ltd.
+Zee Entertainment Enterprises Ltd.
+Zee Learn Ltd.
+Zee Media Corporation Ltd.
+Zen Technologies Ltd.
+Zomato
 Zomato
 Zoom Car
 Zume
