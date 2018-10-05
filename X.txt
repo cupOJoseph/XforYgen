@@ -8,6 +8,7 @@ Adobe
 Adobe Photoshop
 AirBnB
 Amazon
+American Tourister
 Apache
 App Store
 Apple
@@ -45,7 +46,9 @@ Canadian Tire
 Canon
 Canonical
 Canva
+Cello
 Chevrolet
+Classmate
 Coca-Cola 
 CodePen
 Chick-fil-A
@@ -173,6 +176,7 @@ MSNBC
 Munchini
 Napster
 National Geographic
+Natraj
 Netflix
 Nestlé
 Nike
@@ -230,6 +234,7 @@ SoundCloud
 Souq.com
 Soylent
 SpaceX
+SparX
 Splash Damage
 Spotify
 Spotify
@@ -288,6 +293,7 @@ Whatsapp
 Wikipedia
 Wisebatt
 Wiskas
+Wildcraft
 Xerox
 Xiaomi
 XKCD
