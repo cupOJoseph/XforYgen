@@ -282,6 +282,7 @@ Xerox
 Xiaomi
 XKCD
 Yahoo Answers
+Yandex
 Yearbook
 Yelp
 YouTube
