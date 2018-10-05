@@ -119,6 +119,7 @@ Evernote
 Everready
 EVGA
 Facebook
+Facebook Dating
 Ferrari
 Fitbit
 Fiverr
@@ -141,6 +142,7 @@ GoFundMe
 GoPro
 Good Old Games
 Google
+Google Chrome
 Google Authenticator
 Google Drive
 Google Duo
@@ -176,6 +178,7 @@ Home Depot
 Honda
 Hospitals
 Howard Johnson
+HTC
 Houzz
 How Secure Is My Password
 Hulu
@@ -228,6 +231,7 @@ Mathematics
 Mazza
 McDonald's
 Medium
+MEGA
 Meizu
 Micromax
 Microcontroller
@@ -260,6 +264,8 @@ Nokia
 Nudie Jeans
 Nutella
 NY Times
+OKCupid
+OnePlus
 Oculus Rift
 OnePlus
 Oyo Rooms
@@ -330,6 +336,7 @@ Starbucks
 Star Wars
 Steam
 Stubhub
+Swiggy
 Subway
 Super Mario Bros
 Taco Bell
@@ -405,13 +412,6 @@ Yelp
 YouTube
 Zappos
 ZipCar
-Zume
-Zandu Realty Ltd.
-Zeal Aqua Ltd.
-Zee Entertainment Enterprises Ltd.
-Zee Learn Ltd.
-Zee Media Corporation Ltd.
-Zen Technologies Ltd.
 Zomato
 Zomato
 Zoom Car
