@@ -1,17 +1,32 @@
+3D Printing
+23andMe
 4chan
+2Chan
 500px
 7/11
+Artificial Intelligence
 Acer
 Adidas
 Adobe
+Adobe Photoshop
 AirBnB
 Amazon
+American Tourister
 Apache
+App Store
 Apple
+Ashley Madison
+Asus
+Autodesk
+Apple
+Appo
+App Store
+Appirio
 Apple Watch
 App Store
 Ars Technica
 Ashley Madison
+Aspirin
 Asus
 Authy
 Bash.org
@@ -20,41 +35,61 @@ Beme
 Bethesda Games
 Betterment
 Bing
+BigBasket
+Bong
 Bitbucket
 BlackBerry
 Blizzard Entertainment
+Blockchain
 Blogs
 Boo Berry
+Boost
+Bose
 BMW
 Bumble
 Buggati
+Burger King
 Cafeteria
 Canadian Tire
 Canon
 Canonical
 Canva
+Cello
 Chevrolet
-Coca-Cola
+Classmate
+Coca-Cola 
+CodePen
 Chick-fil-A
-Chase
+Chase 
 Chipotle
 Christian Mingle
+Clothes
 CNN
 Coachella
+Compaq
+Couchsurfing
 Coursera
 Craigslist
+Credit Card
 del.icio.us
 Dell
+Diaspora*
 Discord
 Docker
+Digital Ocean
 Dodge
+Driverless Cars 
+Domino's
 Dropbox
 Dropbox
+EBay
 Duracell
 eBay
 Edx
 Electonic Arts
+Elementum
 ELEKS
+EMS
 Equifax
 Esquire
 Etsy
@@ -67,122 +102,167 @@ Fiverr
 Flickr
 Flipkart
 Food
+FoodPanda
 Forbes
 Fox News
 Fruit Loops
+Fujifilms
 GitHub
 Gitlab
 Godrej
 GoFundMe
+Good Old Games
 Google
 Google Drive
+Google Earth
 Google Fit
 Google Glass
 Google Hangout
 Google Authenticator
+Google Map
 Google Play
 Grindr
+Grundig
 Gucci
 Hackernews
+Happn
 Hard Bass
 Harvard
 Hewlett Packard
 HGTV
 Hiking
+Hooli
 Home Depot
+Hospitals
 Howard Johnson
+How Secure Is My Password
 Hulu
+Hyundai
 IBM
-Ikea
-Ikea
-Ikea
 Ikea
 Indiegogo
 Instagram
 Internet
+IoT
 iPhone
 iTunes
+iPad
+iPod
 Jack Daniel's
+Jaguar
 Jobs
 Jockey
-Jockey
+KitchenAid
 Kickstarter
 Kiwix
 KFC
 KPMG
 Lamborghini
+Land Rover
 Lenovo
+Lime
+LifesGood
 LinkedIn
 LinkedIn
+Linux
 L'Oréal
 Lyft
 MasterCard
+Mastodon
 Mathematics
+Mazza
 McDonald's
 Medium
 Meizu
 Micromax
+Microcontroller
 Microsoft
 Microsoft Outlook
 Mike Tyson's Punch-Out
 Minecraft
 Mitsubishi
+Mobile Payments
 Mojang
 Motorola
 MSI
 MSN
+Music
 MSNBC
 Munchini
+MySpace
 Napster
 National Geographic
+Natraj
 Netflix
+Nestlé
 Nike
 Nikon
 Nintendo
 Nokia
+Nudie Jeans
 Nutella
 NY Times
 OnePlus
+Oracle
 Palm Pilots
 Pandora
-Pandora
-Pandora
 Patreon
+Pepsi
+Pokemon
 Periscope
-Pinterest
+Photoshop
 Pinterest
 Pizza Hut
+Play Store
 Podcasts
 Pornhub
+Prada
 ProtonMail
-Reddit
+Quora
+Python
 Reddit
 Red Hat
+Romwe
+Robots
+S7
 Sainsbury's
 Samsung
+Shein
 Shpock
 Segways
 Shake Weight
 Shazam
 Shell
+Shopify
 Silk Road
+Sims
+Siri
 Skype
 Slack
-Slack
+Slice
 Slashdot
 Snapchat
+Snapdeal
 SoftServe
 SONY
 SoundCloud
 Souq.com
 Soylent
 SpaceX
+SparX
 Splash Damage
 Spotify
-Spotify
 Starbucks
+Star Wars
 Steam
 Stubhub
+Subway
+Super Mario Bros
+Taco Bell
+Target
+Swiggy
+Taco Bell
+Tata Steel
 Tesla
 Ted-Ed
 Telegram
@@ -194,7 +274,9 @@ Tinder
 Tor
 Toyota
 Trello
+TripAdvisor
 Tumblr
+Twilio
 TwitchTV
 Twitter
 Udacity
@@ -202,27 +284,51 @@ Udemy
 Uber
 Uber
 Uber Eats
+Under Armour
+Unilever
+Uniqlo
+University
 Urban Clap
 Urban Dictionary
+Venum
 Volkswagen
 Value Village
 Valve
 Venmo
 Viber
 Victoria's Secret
+Video games
 Vimeo
+Vine
 Vodafone
 Waitrose
 Wal-Mart
 Waze
 Wealthfront
 WeWork
+Wireless Power
 Whatsapp
+Wikipedia
+Wisebatt
+Wiskas
+Wildcraft
 Xerox
 Xiaomi
+XKCD
 Yahoo Answers
+Yandex
 Yearbook
 Yelp
 YouTube
 ZipCar
+Zume
+Zandu Realty Ltd.
+Zeal Aqua Ltd.
+Zee Entertainment Enterprises Ltd.
+Zee Learn Ltd.
+Zee Media Corporation Ltd.
+Zen Technologies Ltd.
+Zomato
+Zomato
+Zoom Car
 Zume
