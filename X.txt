@@ -5,9 +5,15 @@
 Acer
 Adidas
 Adobe
+Adobe Photoshop
 AirBnB
 Amazon
 Apache
+App Store
+Apple
+Ashley Madison
+Asus
+Autodesk
 Apple
 Appo
 App Store
@@ -16,6 +22,7 @@ Apple Watch
 App Store
 Ars Technica
 Ashley Madison
+Aspirin
 Asus
 Authy
 Beats by Dre
@@ -23,6 +30,7 @@ Beme
 Bethesda Games
 Betterment
 Bing
+Bong
 Bitbucket
 BlackBerry
 Blizzard Entertainment
@@ -47,6 +55,7 @@ Christian Mingle
 CNN
 Coachella
 Compaq
+Couchsurfing
 Coursera
 Craigslist
 del.icio.us
@@ -56,6 +65,7 @@ Dodge
 Domino's
 Dropbox
 Dropbox
+EBay
 Duracell
 eBay
 Edx
@@ -77,6 +87,7 @@ Food
 Forbes
 Fox News
 Fruit Loops
+Fujifilms
 GitHub
 Gitlab
 Godrej
@@ -115,11 +126,14 @@ Instagram
 Internet
 iPhone
 iTunes
+iPad
+iPod
 Jack Daniel's
 Jaguar
 Jobs
 Jockey
 Jockey
+KitchenAid
 Kickstarter
 Kiwix
 KFC
@@ -127,6 +141,7 @@ KPMG
 Lamborghini
 Land Rover
 Lenovo
+Lime
 LifesGood
 LinkedIn
 LinkedIn
@@ -170,14 +185,18 @@ Pandora
 Pandora
 Patreon
 Pepsi
+Pokemon
 Periscope
 Photoshop
 Pinterest
 Pinterest
 Pizza Hut
+Play Store
 Podcasts
 Pornhub
+Prada
 ProtonMail
+Quora
 Python
 Reddit
 Reddit
@@ -192,6 +211,7 @@ Shazam
 Shell
 Shopify
 Silk Road
+Sims
 Siri
 Skype
 Slack
@@ -199,6 +219,7 @@ Slack
 Slice
 Slashdot
 Snapchat
+Snapdeal
 SoftServe
 SONY
 SoundCloud
@@ -211,6 +232,8 @@ Spotify
 Starbucks
 Steam
 Stubhub
+Taco Bell
+Target
 Swiggy
 Tata Steel
 Tesla
@@ -224,7 +247,9 @@ Tinder
 Tor
 Toyota
 Trello
+TripAdvisor
 Tumblr
+Twilio
 TwitchTV
 Twitter
 Udacity
@@ -247,6 +272,7 @@ Viber
 Victoria's Secret
 Video games
 Vimeo
+Vine
 Vodafone
 Waitrose
 Wal-Mart
@@ -260,15 +286,12 @@ Xerox
 Xiaomi
 XKCD
 Yahoo Answers
+Yandex
 Yearbook
 Yelp
 YouTube
 ZipCar
+Zomato
+Zoom Car
 Zume
-Zandu Realty Ltd.
-Zeal Aqua Ltd.
-Zee Entertainment Enterprises Ltd.
-Zee Learn Ltd.
-Zee Media Corporation Ltd.
-Zen Technologies Ltd.
 Zomato
