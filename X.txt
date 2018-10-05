@@ -56,11 +56,14 @@ Bumble
 Burger King
 Cafeteria
 Canadian Tire
+Candles
 Canon
 Canonical
 Canva
 Chase
 Chevrolet
+Coca-Cola
+Courage
 Chick-fil-A
 Cello
 Chevrolet
@@ -191,6 +194,7 @@ LinkedIn
 Linux
 L'Oréal
 Lyft
+Mac and Cheese
 MasterCard
 Mastodon
 Mathematics
@@ -276,6 +280,8 @@ Slack
 Slice
 Slashdot
 Snapchat
+Soap
+Showers
 Snapdeal
 SoftServe
 Something Awful
@@ -332,6 +338,7 @@ Venum
 Volkswagen
 Value Village
 Valve
+Vegans
 Venmo
 Viber
 Victoria's Secret
