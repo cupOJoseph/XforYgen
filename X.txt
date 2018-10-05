@@ -29,6 +29,7 @@ Ashley Madison
 Aspirin
 Asus
 Authy
+Bash.org
 Beats by Dre
 Beme
 Bethesda Games
@@ -74,6 +75,7 @@ del.icio.us
 Dell
 Diaspora*
 Discord
+Docker
 Digital Ocean
 Dodge
 Driverless Cars 
