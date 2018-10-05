@@ -99,3 +99,5 @@ The next big thing is: Yearbook for illegal minecraft servers
 The next big thing is: Pinterest for students
 
 The next big thing is: Bonsoy Milk for Vegans
+
+The next big thing is: Bitcoin for Ants
