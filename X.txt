@@ -88,6 +88,7 @@ Coursera
 Craigslist
 Credit Card
 del.icio.us
+Deliveroo
 Dell
 Digg
 Diaspora*
@@ -152,6 +153,7 @@ Grindr
 Groupon
 Grundig
 Gucci
+Guinness
 HackerEarth
 Hackernews
 HackerRank
