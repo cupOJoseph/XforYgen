@@ -148,6 +148,7 @@ Lime
 LifesGood
 LinkedIn
 LinkedIn
+Linux
 L'Oréal
 Lyft
 MasterCard
@@ -284,6 +285,7 @@ Waze
 Wealthfront
 WeWork
 Whatsapp
+Wikipedia
 Wisebatt
 Wiskas
 Xerox
@@ -297,5 +299,4 @@ YouTube
 ZipCar
 Zomato
 Zoom Car
-Zomato
 Zume
