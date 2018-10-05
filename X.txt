@@ -77,6 +77,7 @@ Duracell
 eBay
 Edx
 Electonic Arts
+Elementum
 ELEKS
 EMS
 Equifax
@@ -189,6 +190,7 @@ Nudie Jeans
 Nutella
 NY Times
 OnePlus
+Oracle
 Palm Pilots
 Pandora
 Patreon
