@@ -33,6 +33,7 @@ Binge Watchers
 Binman
 Biologists
 Blockbuster
+Blog
 Bloggers
 Blogging
 Blood
@@ -42,6 +43,7 @@ boats
 Books
 Bottles
 Boxers
+Burger King
 Burgers
 Buyers
 Calisthenics
@@ -239,6 +241,7 @@ Roadmen
 Rockstars
 Runners
 RV's
+Schools
 School lunches
 Schooling
 Scientists
