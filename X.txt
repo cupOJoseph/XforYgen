@@ -5,9 +5,15 @@
 Acer
 Adidas
 Adobe
+Adobe Photoshop
 AirBnB
 Amazon
 Apache
+App Store
+Apple
+Ashley Madison
+Asus
+Autodesk
 Apple
 Appo
 App Store
@@ -16,6 +22,7 @@ Apple Watch
 App Store
 Ars Technica
 Ashley Madison
+Aspirin
 Asus
 Authy
 Beats by Dre
@@ -23,6 +30,7 @@ Beme
 Bethesda Games
 Betterment
 Bing
+Bong
 Bitbucket
 BlackBerry
 Blizzard Entertainment
@@ -44,11 +52,14 @@ Chick-fil-A
 Chase 
 Chipotle
 Christian Mingle
+Clothes
 CNN
 Coachella
 Compaq
+Couchsurfing
 Coursera
 Craigslist
+Credit Card
 del.icio.us
 Dell
 Discord
@@ -56,6 +67,7 @@ Dodge
 Domino's
 Dropbox
 Dropbox
+EBay
 Duracell
 eBay
 Edx
@@ -77,6 +89,7 @@ Food
 Forbes
 Fox News
 Fruit Loops
+Fujifilms
 GitHub
 Gitlab
 Godrej
@@ -101,9 +114,11 @@ HGTV
 Hiking
 Hooli
 Home Depot
+Hospitals
 Howard Johnson
 How Secure Is My Password
 Hulu
+Hyundai
 IBM
 Ikea
 Ikea
@@ -114,11 +129,14 @@ Instagram
 Internet
 iPhone
 iTunes
+iPad
+iPod
 Jack Daniel's
 Jaguar
 Jobs
 Jockey
 Jockey
+KitchenAid
 Kickstarter
 Kiwix
 KFC
@@ -126,6 +144,7 @@ KPMG
 Lamborghini
 Land Rover
 Lenovo
+Lime
 LifesGood
 LinkedIn
 LinkedIn
@@ -160,6 +179,7 @@ Nike
 Nikon
 Nintendo
 Nokia
+Nudie Jeans
 Nutella
 NY Times
 OnePlus
@@ -169,14 +189,18 @@ Pandora
 Pandora
 Patreon
 Pepsi
+Pokemon
 Periscope
 Photoshop
 Pinterest
 Pinterest
 Pizza Hut
+Play Store
 Podcasts
 Pornhub
+Prada
 ProtonMail
+Quora
 Python
 Reddit
 Reddit
@@ -191,6 +215,7 @@ Shazam
 Shell
 Shopify
 Silk Road
+Sims
 Siri
 Skype
 Slack
@@ -198,6 +223,7 @@ Slack
 Slice
 Slashdot
 Snapchat
+Snapdeal
 SoftServe
 SONY
 SoundCloud
@@ -208,8 +234,11 @@ Splash Damage
 Spotify
 Spotify
 Starbucks
+Star Wars
 Steam
 Stubhub
+Taco Bell
+Target
 Swiggy
 Tata Steel
 Tesla
@@ -223,7 +252,9 @@ Tinder
 Tor
 Toyota
 Trello
+TripAdvisor
 Tumblr
+Twilio
 TwitchTV
 Twitter
 Udacity
@@ -231,11 +262,13 @@ Udemy
 Uber
 Uber
 Uber Eats
+Under Armour
 Unilever
 Uniqlo
 University
 Urban Clap
 Urban Dictionary
+Venum
 Volkswagen
 Value Village
 Valve
@@ -244,6 +277,7 @@ Viber
 Victoria's Secret
 Video games
 Vimeo
+Vine
 Vodafone
 Waitrose
 Wal-Mart
@@ -258,15 +292,11 @@ Xerox
 Xiaomi
 XKCD
 Yahoo Answers
+Yandex
 Yearbook
 Yelp
 YouTube
 ZipCar
-Zume
-Zandu Realty Ltd.
-Zeal Aqua Ltd.
-Zee Entertainment Enterprises Ltd.
-Zee Learn Ltd.
-Zee Media Corporation Ltd.
-Zen Technologies Ltd.
 Zomato
+Zoom Car
+Zume
