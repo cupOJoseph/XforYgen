@@ -57,8 +57,8 @@ Cities
 Classrooms
 Climbers
 Coaches
-Cocktails
 Cockatiels
+Cocktails
 Coders
 College
 Computer Science Students
@@ -70,6 +70,7 @@ Cowpokes
 Creators
 Crowbars
 Criminals
+Crowbars
 Cycling
 Dancing
 Democracts
@@ -80,10 +81,10 @@ Dinosaurs
 Dispensaries
 Disrupting trillion dollar industries
 Doctors
+Dog Walkers
 Dogs
 Dogs that don't bark
 Dogs that won't stop barking
-Dog Walkers
 Donald Trump
 Dragons
 Drug dealers
@@ -92,6 +93,7 @@ Drunk people
 Elephants
 Edibles
 Elbow licking
+encyclopedias
 EMS
 encyclopedias
 Engineers
@@ -135,6 +137,7 @@ Hobos
 Honey
 Horses
 Hipsters
+Honey
 huffing glue
 Hungry child
 Ice cream
@@ -162,15 +165,14 @@ Marathoners
 Mathematicians
 Meditation
 Millennials
-Millennials
 Mixed drinks
 Mobile phones
 Mothers
 Mr. Robot
 Multipurpose event spaces
 Music
-Musicians
 Music festivals
+Musicians
 Novels
 Nurses
 old people that refuse to use computers
@@ -186,7 +188,6 @@ People walking
 People who lick food to claim it
 people with hemorrhoids
 People with pools
-Prescription pills
 pets
 Photographers
 Pineapples
@@ -199,6 +200,9 @@ Pokemon
 pools
 Poor people
 Practicing vegans
+Prescription pills
+Priests
+Programmers
 project managers
 Prom dresses
 public bath rooms
@@ -214,8 +218,8 @@ Roadmen
 Rockstars
 Runners
 RV's
-Schooling
 School lunches
+Schooling
 Scientists
 Sellers
 Skull Candy
@@ -277,6 +281,7 @@ Weed
 Wild Animals
 Wires
 Wrestling
+young people that hates old people that refuse to use computers
 Youtubers
 Zebras
 Koalas

@@ -10,6 +10,7 @@ Adidas
 Adobe
 Adobe Photoshop
 AirBnB
+Alphabet
 Amazon
 American Tourister
 Apache
@@ -23,7 +24,6 @@ Appo
 App Store
 Appirio
 Apple Watch
-App Store
 Ars Technica
 Ashley Madison
 Aspirin
@@ -48,14 +48,18 @@ Boo Berry
 Boost
 Bose
 BMW
-Bumble
+Boo Berry
 Buggati
+Bumble
 Burger King
 Cafeteria
 Canadian Tire
 Canon
 Canonical
 Canva
+Chase
+Chevrolet
+Chick-fil-A
 Cello
 Chevrolet
 Classmate
@@ -79,6 +83,7 @@ Dell
 Digg
 Diaspora*
 Discord
+Disney
 Docker
 Digital Ocean
 Dodge
@@ -97,9 +102,9 @@ EMS
 Equifax
 Esquire
 Etsy
+Evernote
 Everready
-Evernote
-Evernote
+EVGA
 Facebook
 Ferrari
 Fiverr
@@ -117,6 +122,7 @@ Godrej
 GoFundMe
 Good Old Games
 Google
+Google Authenticator
 Google Drive
 Google Earth
 Google Fit
@@ -157,11 +163,12 @@ Jack Daniel's
 Jaguar
 Jobs
 Jockey
+KFC
 KitchenAid
 Kickstarter
 Kiwix
-KFC
 KPMG
+L'Oréal
 Lamborghini
 Land Rover
 Lenovo
@@ -223,6 +230,10 @@ Podcasts
 Pornhub
 Prada
 ProtonMail
+Red Hat
+Reddit
+Sainsbury's
+Samsung
 Quora
 Python
 Reddit
@@ -238,6 +249,7 @@ Segways
 Shake Weight
 Shazam
 Shell
+Shpock
 Shopify
 Silk Road
 Sims
@@ -273,8 +285,10 @@ Tesla
 Ted-Ed
 Telegram
 Tesco
+Tesla
 The Boring Company
 The Learning Channel
+The New York Times
 Tidal
 Tinder
 Tor
@@ -285,11 +299,12 @@ Tumblr
 Twilio
 TwitchTV
 Twitter
-Udacity
-Udemy
-Uber
 Uber
 Uber Eats
+Udacity
+Udemy
+Urban Clap
+Urban Dictionary
 Under Armour
 Unilever
 Uniqlo
@@ -305,8 +320,10 @@ Viber
 Victoria's Secret
 Video games
 Vimeo
+Visa
 Vine
 Vodafone
+Volkswagen
 Waitrose
 Wal-Mart
 Waze
