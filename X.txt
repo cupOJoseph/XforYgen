@@ -41,6 +41,7 @@ Bong
 Bitbucket
 BlackBerry
 Blizzard Entertainment
+Blockbuster
 Blockchain
 Blogs
 Bluetooth
@@ -168,6 +169,8 @@ KFC
 KitchenAid
 Kickstarter
 Kiwix
+KFC
+Kodak
 KPMG
 L'Oréal
 Lamborghini
