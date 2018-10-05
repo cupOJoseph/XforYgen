@@ -105,3 +105,5 @@ The next big thing is: Bitcoin for Ants
 The next big thing is: X of Y
 
 The next big thing is: Y of X
+
+The next big thing is: Amazon Z to A
