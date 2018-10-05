@@ -49,6 +49,7 @@ Blizzard Entertainment
 Blockbuster
 Blockchain
 Blogs
+Bumble
 Bluetooth
 Boo Berry
 Boost
@@ -131,6 +132,7 @@ Forbes
 Fortnite
 Fox News
 Fruit Loops
+Git
 Fujifilms
 GitHub
 Gitlab
@@ -141,6 +143,10 @@ Good Old Games
 Google
 Google Authenticator
 Google Drive
+Google Duo
+Google Fit
+Google Glass
+Google Hangout
 Google Earth
 Google Fit
 Google Glass
