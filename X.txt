@@ -80,11 +80,13 @@ Fox News
 Fruit Loops
 GitHub
 Gitlab
+Gmail
 Godrej
 GoFundMe
 Good Old Games
 Google
 Google Drive
+Google Express
 Google Fit
 Google Glass
 Google Hangout
@@ -128,6 +130,7 @@ KFC
 KPMG
 Lamborghini
 Land Rover
+League of Legends
 Lenovo
 LifesGood
 LinkedIn
