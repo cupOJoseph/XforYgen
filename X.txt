@@ -137,6 +137,7 @@ Git
 Fujifilms
 GitHub
 Gitlab
+Gmail
 Godrej
 GoFundMe
 GoPro
@@ -145,6 +146,7 @@ Google
 Google Chrome
 Google Authenticator
 Google Drive
+Google Express
 Google Duo
 Google Fit
 Google Glass
@@ -216,6 +218,7 @@ KPMG
 L'Oréal
 Lamborghini
 Land Rover
+League of Legends
 Lenovo
 Lime
 LifesGood
