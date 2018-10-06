@@ -3,7 +3,9 @@ Actors
 Adjunct professors
 Adults
 Agile
+Aircrafts
 Airplanes
+Aliens
 amateur DJs
 antique collectors
 babies
@@ -151,6 +153,7 @@ Photographers
 pirated movies
 Playing Cards
 Priests
+Pubs
 Podcasts
 pools
 Practicing vegans
