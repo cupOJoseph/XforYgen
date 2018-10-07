@@ -16,84 +16,18 @@ Some items are mentioned more than once, like Uber.  This increases the likeliho
 
 
 ## Ideas
-Here's a list of some of our ideas.
+Here's a list of some of our ideas:
+Coachella for Dog Walkers
+Spotify for People with pools
+Stubhub for Hedge funds
+Pandora for furniture
+Coachella for Jungle juice
+Victoria's Secret for Iced coffee
+Canva for Drug dealers
+AirBnB for ethnic lesbians
+Yelp for Helicopters
+Uber for furniture
+Harvard for students
+Coachella for Novels
 
-The next big thing is: Coachella for Dog Walkers
 
-The next big thing is: Spotify for People with pools
-
-The next big thing is: Stubhub for Hedge funds
-
-The next big thing is: Pandora for furniture
-
-The next big thing is: Coachella for Jungle juice
-
-The next big thing is: Victoria's Secret for Iced coffee
-
-The next big thing is: Canva for Drug dealers
-
-The next big thing is: AirBnB for ethnic lesbians
-
-The next big thing is: Yelp for Helicopters
-
-The next big thing is: Uber for furniture
-
-The next big thing is: Harvard for students
-
-The next big thing is: Harvard for Cocktails
-
-The next big thing is: AirBnB for Weed
-
-The next big thing is: Stubhub for Designers
-
-The next big thing is: Netflix for Cocktails
-
-The next big thing is: Tinder for Cocktails
-
-The next big thing is: Google Drive for Drug dealers
-
-The next big thing is: WeWork for Corporate culture
-
-The next big thing is: Snapchat for venture capitalists
-
-The next big thing is: Pinterest for Edibles
-
-The next big thing is: Uber for 30 year highschool reunions
-
-The next big thing is: Etsy for Youtubers
-
-The next big thing is: Etsy for Donald Trump
-
-The next big thing is: Snapchat for Frat boys
-
-The next big thing is: Canva for Top ten of your high school
-
-The next big thing is: Venmo for People with pools
-
-The next big thing is: AirBnB for Flowers
-
-The next big thing is: Coachella for Corporate culture
-
-The next big thing is: Spotify for Weed
-
-The next big thing is: Coachella for Novels
-
-The next big thing is: McDonald's for Vinyl
-
-The next big thing is: GitHub for Music festivals
-
-The next big thing is: Fox News for Sneaking onto private rooftops
-
-The next big thing is: Skype for project managers
-
-The next big thing is: GitHub for ethnic lesbians
-
-The next big thing is: Waze for Warehouses
-
-The next big thing is: Spotify for Hedge funds
-
-The next big thing is: Soylent for pirated movies
-
-The next big thing is: Yearbook for illegal minecraft servers
-
-The next big thing is: Pinterest for students
