@@ -1,4 +1,4 @@
-3D Printing
+﻿3D Printing
 23andMe
 4chan
 2Chan
@@ -306,6 +306,7 @@ Robots
 S7
 Sainsbury's
 Samsung
+Share-it
 Shein
 Shpock
 Segways
