@@ -417,6 +417,7 @@ Yearbook
 Yelp
 YouTube
 Zappos
+Zara
 ZipCar
 Zomato
 Zomato
