@@ -142,6 +142,7 @@ Godrej
 GoFundMe
 GoPro
 Good Old Games
+Goodreads
 Google
 Google Chrome
 Google Authenticator
