@@ -60,6 +60,7 @@ Buggati
 Bumble
 Burger King
 Cafeteria
+Call of Duty
 Canadian Tire
 Candles
 Canon
@@ -212,6 +213,7 @@ Jio
 Jaguar
 Jobs
 Jockey
+Juicero
 KFC
 KitchenAid
 Kickstarter
@@ -364,6 +366,7 @@ The Learning Channel
 The New York Times
 Tidal
 Tinder
+Tiger Balm
 Tor
 Toyota
 Trello
