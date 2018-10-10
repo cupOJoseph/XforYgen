@@ -1,38 +1,38 @@
-﻿3D Printing
-23andMe
+23andme
+2chan
+﻿3d Printing
 4chan
-2Chan
 500px
 7/11
-AADHAAR
-Artificial Intelligence
+Aadhaar
 Acer
 Adidas
 Adobe
 Adobe Photoshop
-AirBnB
+Airbnb
 Airtel
-Aliexpress
 Alexa
+Aliexpress
 Alphabet
 Amazon
 American Tourister
 Apache
 App Store
-Apple
-Ashley Madison
-Asus
-Autodesk
-Apple
-Appo
 App Store
 Appirio
+Apple
+Apple
 Apple Watch
+Appo
 Ars Technica
+Artificial Intelligence
+Ashley Madison
 Ashley Madison
 Aspirin
 Asus
+Asus
 Authy
+Autodesk
 Bandhan Bank
 Bank of America
 Bash.org
@@ -40,23 +40,23 @@ Beats by Dre
 Beme
 Bethesda Games
 Betterment
+Bigbasket
 Bing
-BigBasket
-Bong
 Bitbucket
-BlackBerry
+Blackberry
 Blizzard Entertainment
 Blockbuster
 Blockchain
 Blogs
-Bumble
 Bluetooth
+Bmw
+Bong
+Boo Berry
 Boo Berry
 Boost
 Bose
-BMW
-Boo Berry
 Buggati
+Bumble
 Bumble
 Burger King
 Cafeteria
@@ -66,60 +66,62 @@ Candles
 Canon
 Canonical
 Canva
-Chase
-Chevrolet
-Coca-Cola
-Courage
-Chick-fil-A
 Cello
+Chase
+Chase
+Cheap Dishwasher
 Chevrolet
-Classmate
-Coca-Cola 
-CodePen
-Chick-fil-A
-Chase 
+Chevrolet
+Chick-fil-a
+Chick-fil-a
 Chipotle
 Christian Mingle
+Classmate
 Clothes
-CNN
+Cnn
 Coachella
+Coca-cola
+Coca-cola
+Codepen
 Comedy Central
 Compaq
+Cool Water
 Couchsurfing
+Courage
 Coursera
 Craigslist
 Credit Card
-del.icio.us
+Del.icio.us
 Deliveroo
 Dell
-Digg
 Diaspora*
+Digg
+Digital Ocean
 Discord
-Docomo
 Disney
 Docker
-Digital Ocean
+Docomo
 Dodge
 Doloron
-DoorDash
-Driverless Cars 
 Domino's
+Doordash
+Driverless Cars
 Dropbox
 Dropbox
-EBay
 Duracell
-eBay
+Ebay
+Ebay
 Edx
 Electonic Arts
+Eleks
 Elementum
-ELEKS
-EMS
+Ems
 Equifax
 Esquire
 Etsy
 Evernote
 Everready
-EVGA
+Evga
 Facebook
 Facebook Dating
 Ferrari
@@ -130,157 +132,162 @@ Flickr
 Flipkart
 Flipkart
 Food
-FoodPanda
+Foodpanda
 Forbes
 Fortnite
 Fox News
+Free Education
 Fruit Loops
-Git
 Fujifilms
-GitHub
+Git
+Github
 Gitlab
 Gmail
 Godrej
-GoFundMe
-GoPro
+Gofundme
 Good Old Games
 Goodreads
 Google
+Google Authenticator
+Google Authenticator
 Google Chrome
-Google Authenticator
 Google Drive
-Google Express
 Google Duo
-Google Fit
-Google Glass
-Google Hangout
 Google Earth
+Google Express
+Google Fit
 Google Fit
 Google Glass
+Google Glass
 Google Hangout
-Google Maps
-Google Authenticator
+Google Hangout
 Google Map
+Google Maps
 Google Play
+Gopro
 Grindr
 Groupon
 Grundig
 Gucci
 Guinness
-HackerEarth
+Hackerearth
 Hackernews
-HackerRank
+Hackerrank
 Hacktoberfest
 Happn
 Hard Bass
 Harvard
-HDFC Bank
+Hdfc Bank
 Hewlett Packard
-HGTV
+Hgtv
 Hiking
-Hooli
 Home Depot
 Honda
+Hooli
 Hospitals
-Howard Johnson
-HTC
 Houzz
-How Secure Is My Password
+How Secure is My Password
+Howard Johnson
+Htc
 Huawei
 Hulu
+Human Meat
 Hyundai
-IBM
+Ibm
 Idea
 Ikea
 Ikea
 Ikea
 Ikea
-IMDb
+Imdb
 India
 Indiegogo
 Instacart
 Instagram
 Internet
-IoT
-iPhone
-ITC
-iTunes
-iPad
-iPod
+Iot
+Ipad
+Iphone
+Ipod
+Itc
+Itunes
 Jack Daniel's
+Jaguar
 Jetbrains
 Jio
-Jaguar
 Jobs
 Jockey
 Juicero
-KFC
-KitchenAid
+Kfc
+Kfc
 Kickstarter
+Kitchenaid
 Kiwix
-KFC
 Kodak
-KPMG
-L'Oréal
+Kpmg
+L'oréal
+L'oréal
 Lamborghini
 Land Rover
 League of Legends
 Lenovo
+Lifesgood
 Lime
-LifesGood
-LinkedIn
-LinkedIn
+Linkedin
+Linkedin
 Linux
 Logitech
-L'Oréal
 Lyft
 Mac and Cheese
-MasterCard
+Machine Speaking Whatever is in Your Mind
+Mastercard
 Mastodon
 Mathematics
 Mazza
-McDonald's
+Mcdonald's
 Medium
-MEGA
+Mega
 Meizu
-Micromax
 Microcontroller
+Micromax
 Microsoft
 Microsoft Access
 Microsoft Excel
 Microsoft Outlook
 Microsoft Word
-Mike Tyson's Punch-Out
+Mike Tyson's Punch-out
 Mikrotik
 Minecraft
 Mitsubishi
 Mobile Payments
 Mojang
+More Free Air Tickets
 Motorola
-MSI
-MSN
-Music
-MSNBC
+Msi
+Msn
+Msnbc
 Munchini
-MySpace
+Music
+Myspace
 Napster
 National Geographic
 Natraj
-Netflix
 Nestlé
+Netflix
 Nike
 Nikon
 Nintendo
+No Reservation Policy
 Nokia
 Nudie Jeans
 Nutella
-NY Times
-OKCupid
-OnePlus
+Ny Times
 Oculus Rift
-OnePlus
-Oyo Rooms
+Okcupid
+Oneplus
+Oneplus
 Oracle
+Oyo Rooms
 Palm Pilots
 Pandora
 Pandora
@@ -288,155 +295,147 @@ Pandora
 Panera
 Patreon
 Pepsi
-Pokemon
 Periscope
 Photoshop
 Pinterest
 Pizza Hut
 Play Store
 Podcasts
+Pokemon
 Polaroid
 Pornhub
-PrimeVideos
 Prada
-ProtonMail
-Red Hat
-Reddit
-Sainsbury's
-Samsung
-Quora
+Primevideos
+Protonmail
 Python
-Reddit
+Quora
 Red Hat
-Romwe
+Red Hat
+Reddit
+Reddit
 Robots
+Romwe
 S7
 Sainsbury's
+Sainsbury's
 Samsung
-Share-it
-Shein
-Shpock
+Samsung
 Segways
 Shake Weight
+Share-it
 Shark Tank
 Shazam
+Shein
 Shell
-Shpock
 Shopify
+Showers
+Shpock
+Shpock
 Silk Road
 Sims
 Siri
 Skype
 Slack
-Slice
 Slashdot
+Slice
 Snapchat
-Soap
-Showers
 Snapdeal
-SoftServe
+Soap
+Softserve
 Something Awful
-SONY
-SoundCloud
+Sony
+Soundcloud
 Souq.com
 Soylent
-SpaceX
-SparX
+Spacex
+Sparx
 Splash Damage
 Spotify
-Starbucks
 Star Wars
+Starbucks
 Steam
 Stubhub
-Swiggy
 Subway
 Super Mario Bros
-Taco Bell
-Target
+Swiggy
 Swiggy
 Taco Bell
+Taco Bell
+Target
 Tata Steel
-Tesla
-Ted-Ed
+Ted-ed
 Telegram
 Tesco
+Tesla
 Tesla
 The Boring Company
 The Learning Channel
 The New York Times
 Tidal
-Tinder
 Tiger Balm
+Tinder
 Tor
 Toyota
+Travelling to Moon
 Trello
 Trial Netflix
-TripAdvisor
+Tripadvisor
 Tumblr
 Twilio
-TwitchTV
+Twitchtv
 Twitter
 Uber
 Uber Eats
 Udacity
 Udemy
-Urban Clap
-Urban Dictionary
 Under Armour
 Unilever
 Uniqlo
 University
 Urban Clap
+Urban Clap
 Urban Dictionary
-Venum
-Volkswagen
+Urban Dictionary
 Value Village
 Valve
 Vegans
 Venmo
+Venum
 Viber
 Victoria's Secret
-Video games
+Video Games
 Vimeo
-Visa
 Vine
+Virtual Sex
+Visa
 Vodafone
 Volkswagen
+Volkswagen
 Waitrose
-Wal-Mart
+Wal-mart
 Waze
 Wealthfront
-WeWork
-Wireless Power
+Wework
 Whatsapp
-XPRIZE
 Wikipedia
+Wildcraft
+Wireless Power
 Wisebatt
 Wiskas
-Wildcraft
 Xerox
 Xiaomi
 Xiaomi Poco F1
-XKCD
+Xkcd
+Xprize
 Yahoo Answers
 Yandex
 Yearbook
 Yelp
-YouTube
+Youtube
 Zappos
 Zara
-ZipCar
-Zomato
+Zero Attendance Policy
+Zipcar
 Zomato
 Zoom Car
 Zume
-Free Education
-Virtual Sex
-Travelling to Moon
-Zero attendance policy
-No reservation policy
-Machine speaking whatever is in your mind
-Human meat
-More free air tickets
-Cool water
-Cheap dishwasher
