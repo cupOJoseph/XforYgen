@@ -206,6 +206,7 @@ iTunes
 iPad
 iPod
 Jack Daniel's
+Jetbrains
 Jio
 Jaguar
 Jobs
