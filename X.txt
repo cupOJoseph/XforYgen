@@ -281,11 +281,9 @@ No Reservation Policy
 Nokia
 Nudie Jeans
 Nutella
-<<<<<<< HEAD
 NY Times
 OnePlus
 Oktberfest
-=======
 Ny Times
 Oculus Rift
 Okcupid
@@ -293,7 +291,6 @@ Oneplus
 Oneplus
 Oracle
 Oyo Rooms
->>>>>>> upstream/master
 Palm Pilots
 Pandora
 Pandora
