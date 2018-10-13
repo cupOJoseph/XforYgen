@@ -1,293 +1,447 @@
-23andMe
+23andme
+2chan
+﻿3d Printing
 4chan
 500px
 7/11
+Aadhaar
 Acer
 Adidas
 Adobe
 Adobe Photoshop
-AirBnB
+Airbnb
+Airtel
+Alexa
+Aliexpress
+Alphabet
 Amazon
+American Tourister
 Apache
 App Store
-Apple
-Ashley Madison
-Asus
-Autodesk
-Apple
-Appo
 App Store
 Appirio
+Apple
+Apple
 Apple Watch
-App Store
+Appo
 Ars Technica
+Artificial Intelligence
+Ashley Madison
 Ashley Madison
 Aspirin
 Asus
+Asus
 Authy
+Autodesk
+Bandhan Bank
+Bank of America
+Bash.org
 Beats by Dre
 Beme
 Bethesda Games
 Betterment
+Bigbasket
 Bing
-Bong
 Bitbucket
-BlackBerry
+Blackberry
 Blizzard Entertainment
+Blockbuster
+Blockchain
 Blogs
+Bluetooth
+Bmw
+Bong
 Boo Berry
+Boo Berry
+Boost
 Bose
-BMW
-Bumble
 Buggati
+Bumble
+Bumble
+Burger King
 Cafeteria
+Call of Duty
 Canadian Tire
+Candles
 Canon
 Canonical
 Canva
+Cello
+Chase
+Chase
+Cheap Dishwasher
 Chevrolet
-Coca-Cola 
-CodePen
-Chick-fil-A
-Chase 
+Chevrolet
+Chick-fil-a
+Chick-fil-a
 Chipotle
 Christian Mingle
-CNN
+Classmate
+Clothes
+Cnn
 Coachella
+Coca-cola
+Coca-cola
+Codepen
+Comedy Central
 Compaq
+Cool Water
 Couchsurfing
+Courage
 Coursera
 Craigslist
-del.icio.us
+Credit Card
+Del.icio.us
+Deliveroo
 Dell
+Diaspora*
+Digg
+Digital Ocean
 Discord
+Disney
+Docker
+Docomo
 Dodge
+Doloron
 Domino's
+Doordash
+Driverless Cars
 Dropbox
 Dropbox
-EBay
 Duracell
-eBay
+Ebay
+Ebay
 Edx
 Electonic Arts
-ELEKS
-EMS
+Eleks
+Elementum
+Ems
 Equifax
 Esquire
 Etsy
+Evernote
 Everready
-Evernote
-Evernote
+Evga
 Facebook
+Facebook Dating
 Ferrari
+Fitbit
 Fiverr
+Flex Seal
 Flickr
 Flipkart
+Flipkart
 Food
+Foodpanda
 Forbes
+Fortnite
 Fox News
+Free Education
 Fruit Loops
 Fujifilms
-GitHub
+Git
+Github
 Gitlab
+Gmail
 Godrej
-GoFundMe
+Gofundme
 Good Old Games
+Goodreads
 Google
+Google Authenticator
+Google Authenticator
+Google Chrome
 Google Drive
+Google Duo
+Google Earth
+Google Express
+Google Fit
 Google Fit
 Google Glass
+Google Glass
 Google Hangout
-Google Authenticator
+Google Hangout
+Google Map
+Google Maps
 Google Play
+Gopro
 Grindr
+Groupon
 Grundig
 Gucci
+Guinness
+Hackerearth
 Hackernews
+Hackerrank
+Hacktoberfest
 Happn
 Hard Bass
 Harvard
+Hdfc Bank
 Hewlett Packard
-HGTV
+Hgtv
 Hiking
-Hooli
 Home Depot
+Honda
+Hooli
+Hospitals
+Houzz
+How Secure is My Password
 Howard Johnson
-How Secure Is My Password
+Htc
+Huawei
 Hulu
-IBM
+Human Meat
+Hyundai
+Ibm
+Idea
 Ikea
 Ikea
 Ikea
 Ikea
+Imdb
+India
 Indiegogo
+Instacart
 Instagram
 Internet
-iPhone
-iTunes
-iPad
-iPod
+Iot
+Ipad
+Iphone
+Ipod
+Itc
+Itunes
 Jack Daniel's
 Jaguar
+Jetbrains
+Jio
 Jobs
 Jockey
-Jockey
-KitchenAid
+Juicero
+Kfc
+Kfc
 Kickstarter
+Kitchenaid
 Kiwix
-KFC
-KPMG
+Kodak
+Kpmg
+L'oréal
+L'oréal
 Lamborghini
 Land Rover
+League of Legends
 Lenovo
+Lifesgood
 Lime
-LifesGood
-LinkedIn
-LinkedIn
-L'Oréal
+Linkedin
+Linkedin
+Linux
+Logitech
 Lyft
-MasterCard
+Mac and Cheese
+Machine Speaking Whatever is in Your Mind
+Mastercard
 Mastodon
 Mathematics
 Mazza
-McDonald's
+Mcdonald's
 Medium
+Mega
 Meizu
+Microcontroller
 Micromax
 Microsoft
+Microsoft Access
+Microsoft Excel
 Microsoft Outlook
-Mike Tyson's Punch-Out
+Microsoft Word
+Mike Tyson's Punch-out
+Mikrotik
 Minecraft
 Mitsubishi
+Mobile Payments
 Mojang
+More Free Air Tickets
 Motorola
-MSI
-MSN
-Music
-MSNBC
+Msi
+Msn
+Msnbc
 Munchini
+Music
+Myspace
 Napster
 National Geographic
-Netflix
+Natraj
 Nestlé
+Netflix
 Nike
 Nikon
 Nintendo
+No Reservation Policy
 Nokia
+Nudie Jeans
 Nutella
+<<<<<<< HEAD
 NY Times
 OnePlus
-Oktoberfest
+Oktberfest
+=======
+Ny Times
+Oculus Rift
+Okcupid
+Oneplus
+Oneplus
+Oracle
+Oyo Rooms
+>>>>>>> upstream/master
 Palm Pilots
 Pandora
 Pandora
 Pandora
+Panera
 Patreon
 Pepsi
-Pokemon
 Periscope
 Photoshop
-Pinterest
 Pinterest
 Pizza Hut
 Play Store
 Podcasts
+Pokemon
+Polaroid
 Pornhub
 Prada
-ProtonMail
-Quora
+Primevideos
+Protonmail
 Python
-Reddit
-Reddit
+Quora
 Red Hat
+Red Hat
+Reddit
+Reddit
 Robots
+Romwe
+S7
+Sainsbury's
 Sainsbury's
 Samsung
-Shpock
+Samsung
 Segways
 Shake Weight
+Share-it
+Shark Tank
 Shazam
+Shein
 Shell
 Shopify
+Showers
+Shpock
+Shpock
 Silk Road
 Sims
 Siri
 Skype
 Slack
-Slack
-Slice
 Slashdot
+Slice
 Snapchat
 Snapdeal
-SoftServe
-SONY
-SoundCloud
+Soap
+Softserve
+Something Awful
+Sony
+Soundcloud
 Souq.com
 Soylent
-SpaceX
+Spacex
+Sparx
 Splash Damage
 Spotify
-Spotify
+Star Wars
 Starbucks
 Steam
 Stubhub
+Subway
+Super Mario Bros
+Swiggy
+Swiggy
+Taco Bell
 Taco Bell
 Target
-Swiggy
 Tata Steel
-Tesla
-Ted-Ed
+Ted-ed
 Telegram
 Tesco
+Tesla
+Tesla
 The Boring Company
 The Learning Channel
+The New York Times
 Tidal
+Tiger Balm
 Tinder
 Tor
 Toyota
+Travelling to Moon
 Trello
-TripAdvisor
+Trial Netflix
+Tripadvisor
 Tumblr
 Twilio
-TwitchTV
+Twitchtv
 Twitter
-Udacity
-Udemy
-Uber
 Uber
 Uber Eats
+Udacity
+Udemy
+Under Armour
 Unilever
 Uniqlo
 University
 Urban Clap
+Urban Clap
 Urban Dictionary
-Volkswagen
+Urban Dictionary
 Value Village
 Valve
+Vegans
 Venmo
+Venum
 Viber
 Victoria's Secret
-Video games
+Video Games
 Vimeo
 Vine
+Virtual Sex
+Visa
 Vodafone
+Volkswagen
+Volkswagen
 Waitrose
-Wal-Mart
+Wal-mart
 Waze
 Wealthfront
-WeWork
+Wework
 Whatsapp
+Wikipedia
+Wildcraft
+Wireless Power
 Wisebatt
 Wiskas
 Xerox
 Xiaomi
-XKCD
+Xiaomi Poco F1
+Xkcd
+Xprize
 Yahoo Answers
+Yandex
 Yearbook
 Yelp
-YouTube
-ZipCar
+Youtube
+Zappos
+Zara
+Zero Attendance Policy
+Zipcar
 Zomato
 Zoom Car
 Zume
-Zomato
