@@ -18,15 +18,12 @@ Amazon
 American Tourister
 Apache
 App Store
-App Store
 Appirio
-Apple
 Apple
 Apple Watch
 Appo
 Ars Technica
 Artificial Intelligence
-Ashley Madison
 Ashley Madison
 Aspirin
 Asus
@@ -52,7 +49,6 @@ Bluetooth
 Bmw
 Bong
 Boo Berry
-Boo Berry
 Boost
 Bose
 Buggati
@@ -71,8 +67,6 @@ Chase
 Chase
 Cheap Dishwasher
 Chevrolet
-Chevrolet
-Chick-fil-a
 Chick-fil-a
 Chipotle
 Christian Mingle
@@ -80,7 +74,6 @@ Classmate
 Clothes
 Cnn
 Coachella
-Coca-cola
 Coca-cola
 Codepen
 Comedy Central
@@ -107,9 +100,7 @@ Domino's
 Doordash
 Driverless Cars
 Dropbox
-Dropbox
 Duracell
-Ebay
 Ebay
 Edx
 Electonic Arts
@@ -130,7 +121,6 @@ Fiverr
 Flex Seal
 Flickr
 Flipkart
-Flipkart
 Food
 Foodpanda
 Forbes
@@ -148,7 +138,6 @@ Gofundme
 Good Old Games
 Goodreads
 Google
-Google Authenticator
 Google Authenticator
 Google Chrome
 Google Drive
@@ -195,10 +184,6 @@ Human Meat
 Hyundai
 Ibm
 Idea
-Ikea
-Ikea
-Ikea
-Ikea
 Imdb
 India
 Indiegogo
@@ -219,13 +204,11 @@ Jobs
 Jockey
 Juicero
 Kfc
-Kfc
 Kickstarter
 Kitchenaid
 Kiwix
 Kodak
 Kpmg
-L'oréal
 L'oréal
 Lamborghini
 Land Rover
@@ -286,12 +269,9 @@ Oculus Rift
 Okcupid
 Oktoberfest
 Oneplus
-Oneplus
 Oracle
 Oyo Rooms
 Palm Pilots
-Pandora
-Pandora
 Pandora
 Panera
 Patreon
@@ -311,15 +291,11 @@ Protonmail
 Python
 Quora
 Red Hat
-Red Hat
-Reddit
 Reddit
 Robots
 Romwe
 S7
 Sainsbury's
-Sainsbury's
-Samsung
 Samsung
 Segways
 Shake Weight
@@ -330,7 +306,6 @@ Shein
 Shell
 Shopify
 Showers
-Shpock
 Shpock
 Silk Road
 Sims
@@ -361,13 +336,11 @@ Super Mario Bros
 Swiggy
 Swiggy
 Taco Bell
-Taco Bell
 Target
 Tata Steel
 Ted-ed
 Telegram
 Tesco
-Tesla
 Tesla
 The Boring Company
 The Learning Channel
@@ -394,8 +367,6 @@ Unilever
 Uniqlo
 University
 Urban Clap
-Urban Clap
-Urban Dictionary
 Urban Dictionary
 Value Village
 Valve
