@@ -22,6 +22,7 @@ App Store
 Appirio
 Apple
 Apple
+Apple Store
 Apple Watch
 Appo
 Ars Technica
@@ -38,6 +39,7 @@ Bank of America
 Bash.org
 Beats by Dre
 Beme
+Best Buy
 Bethesda Games
 Betterment
 Bigbasket
@@ -55,7 +57,7 @@ Boo Berry
 Boo Berry
 Boost
 Bose
-Buggati
+Bugati
 Bumble
 Bumble
 Burger King
@@ -86,6 +88,7 @@ Codepen
 Comedy Central
 Compaq
 Cool Water
+Costco
 Couchsurfing
 Courage
 Coursera
@@ -97,11 +100,13 @@ Dell
 Diaspora*
 Digg
 Digital Ocean
+DIRECTV
 Discord
 Disney
 Docker
 Docomo
 Dodge
+Dollar Shave Club
 Doloron
 Domino's
 Doordash
@@ -117,6 +122,7 @@ Eleks
 Elementum
 Ems
 Equifax
+ESPN
 Esquire
 Etsy
 Evernote
@@ -124,6 +130,7 @@ Everready
 Evga
 Facebook
 Facebook Dating
+FedEx
 Ferrari
 Fitbit
 Fiverr
@@ -176,6 +183,7 @@ Hackerrank
 Hacktoberfest
 Happn
 Hard Bass
+Harley-Davidson
 Harvard
 Hdfc Bank
 Hewlett Packard
@@ -213,6 +221,7 @@ Itc
 Itunes
 Jack Daniel's
 Jaguar
+Jeep
 Jetbrains
 Jio
 Jobs
@@ -224,6 +233,7 @@ Kickstarter
 Kitchenaid
 Kiwix
 Kodak
+Koenigsegg
 Kpmg
 L'oréal
 L'oréal
@@ -237,6 +247,7 @@ Linkedin
 Linkedin
 Linux
 Logitech
+Lululemon
 Lyft
 Mac and Cheese
 Machine Speaking Whatever is in Your Mind
@@ -305,6 +316,7 @@ Podcasts
 Pokemon
 Polaroid
 Pornhub
+Pottery Barn
 Prada
 Primevideos
 Protonmail
@@ -315,6 +327,7 @@ Red Hat
 Reddit
 Reddit
 Robots
+Rolls Royce
 Romwe
 S7
 Sainsbury's
@@ -420,6 +433,7 @@ Wework
 Whatsapp
 Wikipedia
 Wildcraft
+Williams Sonoma
 Wireless Power
 Wisebatt
 Wiskas
@@ -436,6 +450,7 @@ Youtube
 Zappos
 Zara
 Zero Attendance Policy
+Zillow
 Zipcar
 Zomato
 Zoom Car
