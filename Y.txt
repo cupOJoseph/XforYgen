@@ -7,12 +7,15 @@ adults
 agile
 aircraft
 airplanes
+AirPods
 aliens
 alcoholics
 airplanes
 audio jungle
 amateur djs
+arts & crafts
 atheists
+athletes
 assassins
 avocados
 antique collectors
@@ -87,11 +90,13 @@ community managers
 condiments
 corporate culture
 cowpokes
+craft beers
 creators
 crowbars
 criminals
 crowbars
 cycling
+dads
 dancers
 dancing
 democracts
@@ -125,6 +130,7 @@ failing department stores
 failing newspaper companies
 fans
 fathers
+fish tanks
 flight attendants
 FBI agents
 flowers
@@ -168,6 +174,7 @@ hobos
 hoarders
 hobos
 honey
+hot dogs
 horses
 hipsters
 honey
@@ -183,11 +190,13 @@ interior decorating
 jocks
 joggers
 jungle juice
+keyboards
 keys
 Kanye West
 my beautiful dark twisted fantasy
 key chains
 kids
+kings
 laptops
 lawyers
 learners
@@ -210,6 +219,7 @@ mr. robot
 multipurpose event spaces
 music
 music festivals
+naked mole rats
 nerds
 NBA stars
 nerds
@@ -222,6 +232,8 @@ online shoppers
 orthodontists
 overweight people
 pajamas
+pandas
+paper airplanes
 parents
 partners
 pens
@@ -283,6 +295,7 @@ self-driving cars
 sellers
 skulls
 skull candy
+sheep
 shorts
 skull candy
 skull candy
@@ -290,6 +303,7 @@ skinny people
 slushes
 snakes
 sneaking onto private rooftops
+snowboards
 soccer moms
 software developers
 souvenir shot glasses
@@ -354,6 +368,7 @@ websites
 weed
 wild animals
 wires
+wizards
 wrestling
 young people that hates old people that refuse to use computers
 youtubers
@@ -363,6 +378,7 @@ Indians
 sweets
 spices
 phones
+phone cases
 wallpaper
 television
 linear algebra books
