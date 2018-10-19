@@ -74,6 +74,7 @@ Canva
 Cello
 Chase
 cheap
+california
 Chase
 Cheap Dishwasher
 Chevrolet
@@ -84,6 +85,7 @@ Chipotle
 Christian Mingle
 Classmate
 Clothes
+class
 Cnn
 Coachella
 Coca-cola
