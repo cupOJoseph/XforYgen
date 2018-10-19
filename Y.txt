@@ -2,6 +2,7 @@
 $5 coffee
 4wds
 actors
+axe
 apple
 adjunct professors
 adults
@@ -85,6 +86,7 @@ cockatiels
 cocktails
 coders
 college
+collide
 computer science students
 computers
 community managers
@@ -114,6 +116,7 @@ dogs that don't bark
 dogs that won't stop barking
 Donald Trump
 drug
+dinner
 selling people chucky cheese tokens they think are bitcoins.
 dragons
 drug dealers
