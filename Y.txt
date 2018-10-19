@@ -2,6 +2,7 @@
 $5 coffee
 4wds
 actors
+apple
 adjunct professors
 adults
 agile
