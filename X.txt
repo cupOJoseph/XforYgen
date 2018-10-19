@@ -4,10 +4,12 @@
 4chan
 500px
 7/11
+500BC
 Aadhaar
 Acer
 Activision
 Adidas
+Angel
 Adobe
 Adobe Photoshop
 Airbnb
@@ -71,6 +73,7 @@ Canonical
 Canva
 Cello
 Chase
+cheap
 Chase
 Cheap Dishwasher
 Chevrolet
@@ -98,6 +101,7 @@ Credit Card
 Del.icio.us
 Deliveroo
 Dell
+Desktop
 Diaspora*
 Digital
 Digg
