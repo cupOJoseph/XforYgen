@@ -73,6 +73,7 @@ Chick-fil-A
 Cello
 Chevrolet
 Classmate
+CLion
 Coca-Cola 
 CodePen
 Chick-fil-A
@@ -297,6 +298,7 @@ Reddit
 Sainsbury's
 Samsung
 Quora
+PyCharm
 Python
 Reddit
 Red Hat
