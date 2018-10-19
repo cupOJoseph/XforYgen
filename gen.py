@@ -30,3 +30,5 @@ s = "The next big thing is: "
 #get a random element in our list of lines.
 s = s + random.choice(X) + " for " + random.choice(Y)
 print (s)
+
+main()
