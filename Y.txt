@@ -90,6 +90,7 @@ community managers
 condiments
 corporate culture
 cowpokes
+craft
 craft beers
 creators
 crowbars
@@ -259,6 +260,7 @@ pizza
 pirates
 playing cards
 priests
+propellers
 pubs
 pied pipers
 podcasts
@@ -357,6 +359,7 @@ undergraduates
 university
 vegans
 vegetables
+vehicles
 ventriloquist dummies
 venture capitalists
 veterans

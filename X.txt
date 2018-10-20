@@ -10,6 +10,7 @@ Activision
 Adidas
 Adobe
 Adobe Photoshop
+Aerial
 Airbnb
 Airtel
 Alexa
@@ -236,6 +237,7 @@ Kiwix
 Kodak
 Koenigsegg
 Kpmg
+LaundroMat
 L'oréal
 L'oréal
 Lamborghini
