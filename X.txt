@@ -18,8 +18,11 @@ Airtel
 Alexa
 Aliexpress
 Alphabet
+AMC Entertainment
 Amazon
+American Express
 American Tourister
+Amtrak
 Apache
 App Store
 App Store
@@ -103,6 +106,7 @@ Courage
 Coursera
 Craigslist
 Credit Card
+CVS
 Del.icio.us
 Deliveroo
 Dell
@@ -442,6 +446,7 @@ Volkswagen
 Volkswagen
 Waitrose
 Wal-mart
+Walgreens
 Waze
 Wealthfront
 Wework
