@@ -14,6 +14,7 @@ Adobe
 Adobe Photoshop
 Aerial
 Airbnb
+Airfox
 Airtel
 Alexa
 Aliexpress
@@ -36,10 +37,9 @@ Appo
 Ars Technica
 Artificial Intelligence
 Ashley Madison
-Ashley Madison
 Aspirin
 Asus
-Asus
+Atlee Elmont
 Authy
 Autodesk
 Bandhan Bank
@@ -54,6 +54,7 @@ Bigbasket
 Bing
 Bitbucket
 Blackberry
+Blart Social Engineering
 Blizzard Entertainment
 Blockbuster
 Blockchain
@@ -65,22 +66,26 @@ Boo Berry
 Boo Berry
 Boost
 Bose
+Build-a-Beartrap
 Buggati
 Bumble
 Bumble
 Burger King
 Cafeteria
 Call of Duty
+Camelia
 Canadian Tire
 Candles
 Canon
 Canonical
 Canva
 Cello
+Chameleon
 Chase
 cheap
 california
 Chase
+Chauncey McPufferson
 Cheap Dishwasher
 Chevrolet
 Chevrolet
@@ -89,6 +94,7 @@ Chick-fil-a
 Chipotle
 Christian Mingle
 Classmate
+Clever Richard's
 Clothes
 class
 Cnn
@@ -106,7 +112,10 @@ Courage
 Coursera
 Craigslist
 Credit Card
+Crunchy Roll
 CVS
+DANK
+Davis Monthan
 Del.icio.us
 Deliveroo
 Dell
@@ -129,6 +138,7 @@ Doordash
 Driverless Cars
 Dropbox
 Dropbox
+Duke
 Duracell
 Ebay
 Ebay
@@ -148,12 +158,14 @@ Facebook
 Facebook Dating
 FedEx
 Ferrari
+Firesign Theater
 Fitbit
 Fiverr
 Flex Seal
 Flickr
 Flipkart
 Flipkart
+Flying Burrito Brothers
 Food
 Foodpanda
 Forbes
@@ -162,6 +174,7 @@ Fox News
 Free Education
 Fruit Loops
 Fujifilms
+Gavroche
 Git
 Github
 Gitlab
@@ -175,6 +188,7 @@ Git.This
 GitCheeGitCheeCoo
 Gitmo
 Gmail
+GNU
 Godrej
 Gofundme
 Good Old Games
@@ -196,7 +210,9 @@ Google Hangout
 Google Map
 Google Maps
 Google Play
+Gopher
 Gopro
+Gordon
 Grindr
 Groupon
 Grundig
@@ -206,17 +222,24 @@ Hackerearth
 Hackernews
 Hackerrank
 Hacktoberfest
+Half Vast
 Happn
 Hard Bass
 Harley-Davidson
 Harvard
+Hazel
 Hdfc Bank
+Hedgehog
 Hewlett Packard
+Hexley
 Hgtv
 Hiking
+Hipmunk
 Home Depot
 Honda
 Hooli
+Hoover
+Hopper
 Hospitals
 Houzz
 How Secure is My Password
@@ -252,6 +275,7 @@ Jio
 Jobs
 Jockey
 Juicero
+Kelly Madison
 Kfc
 Kfc
 Kickstarter
@@ -259,6 +283,7 @@ Kitchenaid
 Kiwix
 Kodak
 Koenigsegg
+Konqi
 Kpmg
 LaundroMat
 L'oréal
@@ -277,6 +302,7 @@ Lululemon
 Lyft
 Mac and Cheese
 Machine Speaking Whatever is in Your Mind
+Mailchimp
 Maple Cookies
 Maple Syrup
 Mastercard
@@ -299,9 +325,12 @@ Mikrotik
 Minecraft
 Mitsubishi
 Mobile Payments
+Moby Dock
 Mojang
+Monty Python's Flying Circus
 More Free Air Tickets
 Motorola
+Mozilla
 Msi
 Msn
 Msnbc
@@ -321,16 +350,18 @@ Nokia
 Nudie Jeans
 Nutella
 Ny Times
+Octocat
 Oculus Rift
 Okcupid
 Oktoberfest
+Omsk People's Lyric Theater
 Oneplus
-Oneplus
+OneRing
 Oracle
+Order from Hoarders
+Otis
 Oyo Rooms
 Palm Pilots
-Pandora
-Pandora
 Pandora
 Panera
 Patreon
@@ -348,6 +379,7 @@ Pottery Barn
 Prada
 Primevideos
 Protonmail
+Purple Pidgin
 Python
 Quora
 Red Hat
@@ -355,12 +387,15 @@ Red Hat
 Reddit
 Reddit
 Riot
+Robear
 Robots
+Roger Moz
 Rolls-Royce
 Romwe
 S7
 Sainsbury's
 Sainsbury's
+SAM
 Samsung
 Samsung
 Segways
@@ -381,8 +416,11 @@ Skype
 Slack
 Slashdot
 Slice
+Smoke 'N' Water Damage 'R' Us
+Smothers Brothers
 Snapchat
 Snapdeal
+SnartCo
 Soap
 Softserve
 Something Awful
@@ -419,6 +457,7 @@ Tidal
 Tiger Balm
 Tinder
 Tor
+Torchwood
 Toyota
 Travelling to Moon
 Trello
@@ -460,12 +499,14 @@ Volkswagen
 Waitrose
 Wal-mart
 Walgreens
+Wapuu
 Waze
 Wealthfront
 Web Summit
 Wework
 Whatsapp
 Wikipedia
+Wilber
 Wildcraft
 Williams Sonoma
 Wireless Power
