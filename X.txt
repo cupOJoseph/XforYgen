@@ -386,6 +386,8 @@ Sparx
 Splash Damage
 Spotify
 Square Enix
+Stack Overflow
+Stack exchange
 Star Wars
 Starbucks
 Steam
@@ -448,6 +450,7 @@ Visa
 Vodafone
 Volkswagen
 Volkswagen
+volvo
 Waitrose
 Wal-mart
 Walgreens
