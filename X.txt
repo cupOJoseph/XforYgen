@@ -25,7 +25,6 @@ American Tourister
 Amtrak
 Apache
 App Store
-App Store
 Appirio
 Apple
 Apple jam
@@ -35,7 +34,6 @@ Apple Watch
 Appo
 Ars Technica
 Artificial Intelligence
-Ashley Madison
 Ashley Madison
 Aspirin
 Asus
@@ -62,11 +60,9 @@ Bluetooth
 Bmw
 Bong
 Boo Berry
-Boo Berry
 Boost
 Bose
 Buggati
-Bumble
 Bumble
 Burger King
 Cafeteria
@@ -83,8 +79,6 @@ california
 Chase
 Cheap Dishwasher
 Chevrolet
-Chevrolet
-Chick-fil-a
 Chick-fil-a
 Chipotle
 Christian Mingle
@@ -93,7 +87,6 @@ Clothes
 class
 Cnn
 Coachella
-Coca-cola
 Coca-cola
 Codepen
 Comcast
@@ -128,7 +121,6 @@ Domino's
 Doordash
 Driverless Cars
 Dropbox
-Dropbox
 Duracell
 Ebay
 Ebay
@@ -153,7 +145,6 @@ Fiverr
 Flex Seal
 Flickr
 Flipkart
-Flipkart
 Food
 Foodpanda
 Forbes
@@ -171,7 +162,6 @@ Gofundme
 Good Old Games
 Goodreads
 Google
-Google Authenticator
 Google Authenticator
 Google Chrome
 Google Drive
@@ -220,15 +210,13 @@ Hyundai
 Ibm
 Idea
 Ikea
-Ikea
-Ikea
-Ikea
 Imdb
 India
 Indiegogo
 Instacart
 Instagram
 Internet
+Internet Banking
 Iot
 Ipad
 Iphone
@@ -253,15 +241,13 @@ Koenigsegg
 Kpmg
 LaundroMat
 L'oréal
-L'oréal
 Lamborghini
 Land Rover
 League of Legends
 Lenovo
 Lifesgood
 Lime
-Linkedin
-Linkedin
+LinkedIn
 Linux
 Logitech
 Lululemon
@@ -285,6 +271,7 @@ Microsoft Access
 Microsoft Excel
 Microsoft Outlook
 Microsoft Word
+Microsoft Powerpoint
 Mike Tyson's Punch-out
 Mikrotik
 Minecraft
@@ -316,12 +303,9 @@ Oculus Rift
 Okcupid
 Oktoberfest
 Oneplus
-Oneplus
 Oracle
 Oyo Rooms
 Palm Pilots
-Pandora
-Pandora
 Pandora
 Panera
 Patreon
@@ -342,8 +326,6 @@ Protonmail
 Python
 Quora
 Red Hat
-Red Hat
-Reddit
 Reddit
 Riot
 Robots
@@ -351,8 +333,6 @@ Rolls-Royce
 Romwe
 S7
 Sainsbury's
-Sainsbury's
-Samsung
 Samsung
 Segways
 Shake Weight
@@ -393,15 +373,12 @@ Stubhub
 Subway
 Super Mario Bros
 Swiggy
-Swiggy
-Taco Bell
 Taco Bell
 Target
 Tata Steel
 Ted-ed
 Telegram
 Tesco
-Tesla
 Tesla
 The Boring Company
 The Learning Channel
@@ -430,8 +407,6 @@ University
 UNIX
 UPS
 Urban Clap
-Urban Clap
-Urban Dictionary
 Urban Dictionary
 Value Village
 Valve
@@ -446,7 +421,6 @@ Vine
 Virtual Sex
 Visa
 Vodafone
-Volkswagen
 Volkswagen
 Waitrose
 Wal-mart
