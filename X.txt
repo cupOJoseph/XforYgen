@@ -1,6 +1,6 @@
 23andme
 2chan
-﻿3d Printing
+3d Printing
 4chan
 500px
 7/11
@@ -25,15 +25,7 @@ American Tourister
 Amtrak
 Apache
 App Store
-App Store
 Appirio
-Apple
-Apple jam
-Apple
-Apple Store
-Apple Watch
-Appo
-Ars Technica
 Artificial Intelligence
 Apple jam
 Apple
@@ -42,9 +34,7 @@ Apple Watch
 Appo
 Ars Technica
 Ashley Madison
-Ashley Madison
 Aspirin
-Asus
 Asus
 Authy
 Autodesk
@@ -68,11 +58,9 @@ Bluetooth
 Bmw
 Bong
 Boo Berry
-Boo Berry
 Boost
 Bose
 Buggati
-Bumble
 Bumble
 Burger King
 Cafeteria
@@ -83,14 +71,11 @@ Canon
 Canonical
 Canva
 Cello
-Chase
 cheap
 california
 Chase
 Cheap Dishwasher
 Chevrolet
-Chevrolet
-Chick-fil-a
 Chick-fil-a
 Chipotle
 Christian Mingle
@@ -99,7 +84,6 @@ Clothes
 class
 Cnn
 Coachella
-Coca-cola
 Coca-cola
 Codepen
 Comcast
@@ -134,9 +118,7 @@ Domino's
 Doordash
 Driverless Cars
 Dropbox
-Dropbox
 Duracell
-Ebay
 Ebay
 Edx
 Electonic Arts
@@ -159,7 +141,6 @@ Fiverr
 Flex Seal
 Flickr
 Flipkart
-Flipkart
 Food
 Foodpanda
 Forbes
@@ -178,17 +159,13 @@ Good Old Games
 Goodreads
 Google
 Google Authenticator
-Google Authenticator
 Google Chrome
 Google Drive
 Google Duo
 Google Earth
 Google Express
 Google Fit
-Google Fit
 Google Glass
-Google Glass
-Google Hangout
 Google Hangout
 Google Map
 Google Maps
@@ -226,9 +203,6 @@ Hyundai
 Ibm
 Idea
 Ikea
-Ikea
-Ikea
-Ikea
 Imdb
 India
 Indiegogo
@@ -250,7 +224,6 @@ Jobs
 Jockey
 Juicero
 Kfc
-Kfc
 Kickstarter
 Kitchenaid
 Kiwix
@@ -259,14 +232,12 @@ Koenigsegg
 Kpmg
 LaundroMat
 L'oréal
-L'oréal
 Lamborghini
 Land Rover
 League of Legends
 Lenovo
 Lifesgood
 Lime
-Linkedin
 Linkedin
 Linux
 Logitech
@@ -322,12 +293,9 @@ Oculus Rift
 Okcupid
 Oktoberfest
 Oneplus
-Oneplus
 Oracle
 Oyo Rooms
 Palm Pilots
-Pandora
-Pandora
 Pandora
 Panera
 Patreon
@@ -348,8 +316,6 @@ Protonmail
 Python
 Quora
 Red Hat
-Red Hat
-Reddit
 Reddit
 Riot
 Robots
@@ -357,8 +323,6 @@ Rolls-Royce
 Romwe
 S7
 Sainsbury's
-Sainsbury's
-Samsung
 Samsung
 Segways
 Shake Weight
@@ -369,7 +333,6 @@ Shein
 Shell
 Shopify
 Showers
-Shpock
 Shpock
 Silk Road
 Sims
@@ -399,15 +362,12 @@ Stubhub
 Subway
 Super Mario Bros
 Swiggy
-Swiggy
-Taco Bell
 Taco Bell
 Target
 Tata Steel
 Ted-ed
 Telegram
 Tesco
-Tesla
 Tesla
 The Boring Company
 The Learning Channel
@@ -436,8 +396,6 @@ University
 UNIX
 UPS
 Urban Clap
-Urban Clap
-Urban Dictionary
 Urban Dictionary
 Value Village
 Valve
@@ -452,7 +410,6 @@ Vine
 Virtual Sex
 Visa
 Vodafone
-Volkswagen
 Volkswagen
 Waitrose
 Wal-mart
