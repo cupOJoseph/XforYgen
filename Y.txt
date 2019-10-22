@@ -10,7 +10,6 @@ adjunct professors
 adults
 agile
 aircraft
-airplanes
 angel
 angle
 andgate
@@ -30,7 +29,6 @@ antique collectors
 babes
 auditor
 apples
-babies
 ants
 angry bosses
 babies
@@ -103,7 +101,6 @@ cowpokes
 craft
 craft beers
 creators
-crowbars
 criminals
 crowbars
 cycling
@@ -134,7 +131,6 @@ drunk people
 elephants
 edibles
 elbow licking
-encyclopedias
 ems
 encyclopedias
 engineers
@@ -187,11 +183,8 @@ high school yearbooks
 hikers
 hippies
 hippopotamus
-hipsters
-hobos
 hoarders
 hobos
-honey
 hot dogs
 horses
 hipsters
@@ -239,7 +232,6 @@ multipurpose event spaces
 music
 music festivals
 naked mole rats
-nerds
 NBA stars
 nerds
 musicians
@@ -263,18 +255,15 @@ people with hemorrhoids
 people with pools
 Pepsi
 pictures
-prescription pills
 professional football players
 ammeter football players that would totally go pro if they were just a few inches taller
 pets
 photographers
-pirates
 pineapples
 pirated movies
 pizza
 pirates
 playing cards
-priests
 propellers
 pubs
 pied pipers
@@ -285,7 +274,6 @@ poor people
 practicing vegans
 prescription pills
 priests
-programmers
 project managers
 prom dresses
 public bath rooms
@@ -314,10 +302,8 @@ scientists
 self-driving cars
 sellers
 skulls
-skull candy
 sheep
 shorts
-skull candy
 skull candy
 skinny people
 slushes
@@ -356,7 +342,6 @@ the United States of America
 the blogosphere
 thrift stores
 tiny homes
-toddlers
 toddlers
 toilet paper
 toilet
