@@ -88,6 +88,7 @@ cheap
 california
 Chase
 Cheap Dishwasher
+Carlsberg
 Chevrolet
 Chevrolet
 Chick-fil-a
@@ -199,6 +200,7 @@ Groupon
 Grundig
 Gucci
 Guinness
+Gumtree
 Hackerearth
 Hackernews
 Hackerrank
@@ -208,6 +210,7 @@ Hard Bass
 Harley-Davidson
 Harvard
 Hdfc Bank
+Heineken
 Hewlett Packard
 Hgtv
 Hiking
